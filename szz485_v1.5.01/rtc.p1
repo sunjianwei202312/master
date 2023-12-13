@@ -1,0 +1,1711 @@
+Version 3.2 HI-TECH Software Intermediate Code
+"19 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _INDF `Vuc 1 e@0 ]
+"20 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TMR0 `Vuc 1 e@1 ]
+"21 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PCL `Vuc 1 e@2 ]
+"22 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _STATUS `Vuc 1 e@3 ]
+"23 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _FSR `uc 1 e@4 ]
+"24 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PORTA `Vuc 1 e@5 ]
+"25 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PORTB `Vuc 1 e@6 ]
+"26 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PORTC `Vuc 1 e@7 ]
+"30 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PORTE `Vuc 1 e@9 ]
+"31 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PCLATH `Vuc 1 e@10 ]
+"32 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _INTCON `Vuc 1 e@11 ]
+"33 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PIR1 `Vuc 1 e@12 ]
+"34 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PIR2 `Vuc 1 e@13 ]
+"35 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TMR1L `Vuc 1 e@14 ]
+"36 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TMR1H `Vuc 1 e@15 ]
+"37 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T1CON `uc 1 e@16 ]
+"38 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TMR2 `Vuc 1 e@17 ]
+"39 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T2CON `uc 1 e@18 ]
+"40 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPBUF `Vuc 1 e@19 ]
+"41 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPCON `Vuc 1 e@20 ]
+"42 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCPR1L `Vuc 1 e@21 ]
+"43 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCPR1H `Vuc 1 e@22 ]
+"44 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP1CON `Vuc 1 e@23 ]
+"45 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RCSTA `Vuc 1 e@24 ]
+"46 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TXREG `Vuc 1 e@25 ]
+"47 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RCREG `Vuc 1 e@26 ]
+"48 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCPR2L `Vuc 1 e@27 ]
+"49 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCPR2H `Vuc 1 e@28 ]
+"50 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP2CON `Vuc 1 e@29 ]
+"51 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ADRESH `Vuc 1 e@30 ]
+"52 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ADCON0 `Vuc 1 e@31 ]
+"53 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _OPTION `uc 1 e@129 ]
+"54 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISA `Vuc 1 e@133 ]
+"55 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISB `Vuc 1 e@134 ]
+"56 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISC `Vuc 1 e@135 ]
+"60 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISE `Vuc 1 e@137 ]
+"61 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PIE1 `uc 1 e@140 ]
+"62 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PIE2 `uc 1 e@141 ]
+"63 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PCON `Vuc 1 e@142 ]
+"64 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _OSCCON `Vuc 1 e@143 ]
+"65 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _OSCTUNE `uc 1 e@144 ]
+"66 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPCON2 `Vuc 1 e@145 ]
+"67 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PR2 `uc 1 e@146 ]
+"68 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPADD `uc 1 e@147 ]
+"69 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPMSK `uc 1 e@147 ]
+"70 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPSTAT `Vuc 1 e@148 ]
+"71 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WPUB `uc 1 e@149 ]
+"72 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IOCB `uc 1 e@150 ]
+"73 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _VRCON `uc 1 e@151 ]
+"74 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TXSTA `Vuc 1 e@152 ]
+"75 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SPBRG `uc 1 e@153 ]
+"76 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SPBRGH `uc 1 e@154 ]
+"77 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PWM1CON `Vuc 1 e@155 ]
+"78 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ECCPAS `Vuc 1 e@156 ]
+"79 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PSTRCON `Vuc 1 e@157 ]
+"80 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ADRESL `Vuc 1 e@158 ]
+"81 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ADCON1 `uc 1 e@159 ]
+"82 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WDTCON `Vuc 1 e@261 ]
+"83 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CM1CON0 `Vuc 1 e@263 ]
+"84 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CM2CON0 `Vuc 1 e@264 ]
+"85 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CM2CON1 `Vuc 1 e@265 ]
+"86 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _EEDAT `Vuc 1 e@268 ]
+"88 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _EEDATA `Vuc 1 e@268 ]
+"89 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _EEADR `Vuc 1 e@269 ]
+"91 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _EEADRL `Vuc 1 e@269 ]
+"92 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _EEDATH `Vuc 1 e@270 ]
+"93 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _EEADRH `Vuc 1 e@271 ]
+"94 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SRCON `Vuc 1 e@389 ]
+"95 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BAUDCTL `Vuc 1 e@391 ]
+"96 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANSEL `uc 1 e@392 ]
+"97 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANSELH `uc 1 e@393 ]
+"98 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _EECON1 `Vuc 1 e@396 ]
+"99 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _EECON2 `Vuc 1 e@397 ]
+"103 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CARRY `Vb 1 e@24 ]
+"104 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _DC `Vb 1 e@25 ]
+"105 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ZERO `Vb 1 e@26 ]
+"106 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PD `Vb 1 e@27 ]
+"107 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TO `Vb 1 e@28 ]
+"108 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RP0 `b 1 e@29 ]
+"109 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RP1 `b 1 e@30 ]
+"110 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IRP `b 1 e@31 ]
+"113 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RA0 `Vb 1 e@40 ]
+"114 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RA1 `Vb 1 e@41 ]
+"115 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RA2 `Vb 1 e@42 ]
+"116 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RA3 `Vb 1 e@43 ]
+"117 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RA4 `Vb 1 e@44 ]
+"118 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RA5 `Vb 1 e@45 ]
+"119 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RA6 `Vb 1 e@46 ]
+"120 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RA7 `Vb 1 e@47 ]
+"123 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RB0 `Vb 1 e@48 ]
+"124 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RB1 `Vb 1 e@49 ]
+"125 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RB2 `Vb 1 e@50 ]
+"126 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RB3 `Vb 1 e@51 ]
+"127 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RB4 `Vb 1 e@52 ]
+"128 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RB5 `Vb 1 e@53 ]
+"129 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RB6 `Vb 1 e@54 ]
+"130 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RB7 `Vb 1 e@55 ]
+"133 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RC0 `Vb 1 e@56 ]
+"134 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RC1 `Vb 1 e@57 ]
+"135 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RC2 `Vb 1 e@58 ]
+"136 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RC3 `Vb 1 e@59 ]
+"137 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RC4 `Vb 1 e@60 ]
+"138 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RC5 `Vb 1 e@61 ]
+"139 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RC6 `Vb 1 e@62 ]
+"140 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RC7 `Vb 1 e@63 ]
+"158 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RE3 `Vb 1 e@75 ]
+"161 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RBIF `Vb 1 e@88 ]
+"163 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RABIF `Vb 1 e@88 ]
+"164 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _INTF `Vb 1 e@89 ]
+"165 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T0IF `Vb 1 e@90 ]
+"166 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RBIE `b 1 e@91 ]
+"168 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RABIE `b 1 e@91 ]
+"169 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _INTE `b 1 e@92 ]
+"170 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T0IE `b 1 e@93 ]
+"171 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PEIE `b 1 e@94 ]
+"172 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _GIE `Vb 1 e@95 ]
+"175 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TMR1IF `Vb 1 e@96 ]
+"176 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TMR2IF `Vb 1 e@97 ]
+"177 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP1IF `Vb 1 e@98 ]
+"178 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPIF `Vb 1 e@99 ]
+"179 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TXIF `Vb 1 e@100 ]
+"180 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RCIF `Vb 1 e@101 ]
+"181 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ADIF `Vb 1 e@102 ]
+"184 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP2IF `Vb 1 e@104 ]
+"185 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ULPWUIF `Vb 1 e@106 ]
+"186 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BCLIF `Vb 1 e@107 ]
+"187 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _EEIF `Vb 1 e@108 ]
+"188 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C1IF `Vb 1 e@109 ]
+"189 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C2IF `Vb 1 e@110 ]
+"190 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _OSFIF `Vb 1 e@111 ]
+"193 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TMR1ON `b 1 e@128 ]
+"194 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TMR1CS `b 1 e@129 ]
+"195 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T1SYNC `b 1 e@130 ]
+"196 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T1OSCEN `b 1 e@131 ]
+"197 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T1CKPS0 `b 1 e@132 ]
+"198 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T1CKPS1 `b 1 e@133 ]
+"199 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TMR1GE `b 1 e@134 ]
+"200 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T1GINV `b 1 e@135 ]
+"203 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T2CKPS0 `b 1 e@144 ]
+"204 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T2CKPS1 `b 1 e@145 ]
+"205 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TMR2ON `b 1 e@146 ]
+"206 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TOUTPS0 `b 1 e@147 ]
+"207 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TOUTPS1 `b 1 e@148 ]
+"208 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TOUTPS2 `b 1 e@149 ]
+"209 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TOUTPS3 `b 1 e@150 ]
+"212 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPM0 `b 1 e@160 ]
+"213 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPM1 `b 1 e@161 ]
+"214 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPM2 `b 1 e@162 ]
+"215 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPM3 `b 1 e@163 ]
+"216 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CKP `b 1 e@164 ]
+"217 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPEN `b 1 e@165 ]
+"218 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPOV `Vb 1 e@166 ]
+"219 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WCOL `Vb 1 e@167 ]
+"222 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP1M0 `b 1 e@184 ]
+"223 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP1M1 `b 1 e@185 ]
+"224 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP1M2 `b 1 e@186 ]
+"225 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP1M3 `b 1 e@187 ]
+"226 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _DC1B0 `b 1 e@188 ]
+"227 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _DC1B1 `b 1 e@189 ]
+"228 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _P1M0 `b 1 e@190 ]
+"229 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _P1M1 `b 1 e@191 ]
+"232 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RX9D `Vb 1 e@192 ]
+"233 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _OERR `Vb 1 e@193 ]
+"234 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _FERR `Vb 1 e@194 ]
+"235 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ADDEN `b 1 e@195 ]
+"236 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CREN `b 1 e@196 ]
+"237 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SREN `b 1 e@197 ]
+"238 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RX9 `b 1 e@198 ]
+"239 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SPEN `b 1 e@199 ]
+"242 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP2M0 `b 1 e@232 ]
+"243 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP2M1 `b 1 e@233 ]
+"244 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP2M2 `b 1 e@234 ]
+"245 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP2M3 `b 1 e@235 ]
+"246 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP2Y `Vb 1 e@236 ]
+"247 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP2X `Vb 1 e@237 ]
+"250 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ADON `b 1 e@248 ]
+"251 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _GODONE `Vb 1 e@249 ]
+"252 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CHS0 `b 1 e@250 ]
+"253 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CHS1 `b 1 e@251 ]
+"254 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CHS2 `b 1 e@252 ]
+"255 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CHS3 `b 1 e@253 ]
+"256 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ADCS0 `b 1 e@254 ]
+"257 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ADCS1 `b 1 e@255 ]
+"260 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PS0 `b 1 e@1032 ]
+"261 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PS1 `b 1 e@1033 ]
+"262 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PS2 `b 1 e@1034 ]
+"263 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PSA `b 1 e@1035 ]
+"264 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T0SE `b 1 e@1036 ]
+"265 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T0CS `b 1 e@1037 ]
+"266 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _INTEDG `b 1 e@1038 ]
+"267 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RBPU `b 1 e@1039 ]
+"269 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RABPU `b 1 e@1039 ]
+"272 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISA0 `b 1 e@1064 ]
+"273 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISA1 `b 1 e@1065 ]
+"274 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISA2 `b 1 e@1066 ]
+"275 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISA3 `b 1 e@1067 ]
+"276 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISA4 `b 1 e@1068 ]
+"277 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISA5 `b 1 e@1069 ]
+"278 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISA6 `b 1 e@1070 ]
+"279 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISA7 `b 1 e@1071 ]
+"282 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISB0 `Vb 1 e@1072 ]
+"283 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISB1 `Vb 1 e@1073 ]
+"284 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISB2 `Vb 1 e@1074 ]
+"285 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISB3 `Vb 1 e@1075 ]
+"286 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISB4 `Vb 1 e@1076 ]
+"287 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISB5 `Vb 1 e@1077 ]
+"288 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISB6 `Vb 1 e@1078 ]
+"289 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISB7 `Vb 1 e@1079 ]
+"292 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISC0 `Vb 1 e@1080 ]
+"293 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISC1 `Vb 1 e@1081 ]
+"294 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISC2 `Vb 1 e@1082 ]
+"295 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISC3 `Vb 1 e@1083 ]
+"296 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISC4 `Vb 1 e@1084 ]
+"297 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISC5 `Vb 1 e@1085 ]
+"298 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISC6 `Vb 1 e@1086 ]
+"299 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISC7 `Vb 1 e@1087 ]
+"317 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRISE3 `Vb 1 e@1099 ]
+"320 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TMR1IE `b 1 e@1120 ]
+"321 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TMR2IE `b 1 e@1121 ]
+"322 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP1IE `b 1 e@1122 ]
+"323 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SSPIE `b 1 e@1123 ]
+"324 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TXIE `b 1 e@1124 ]
+"325 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RCIE `b 1 e@1125 ]
+"326 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ADIE `b 1 e@1126 ]
+"329 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CCP2IE `b 1 e@1128 ]
+"330 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ULPWUIE `b 1 e@1130 ]
+"331 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BCLIE `b 1 e@1131 ]
+"332 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _EEIE `b 1 e@1132 ]
+"333 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C1IE `b 1 e@1133 ]
+"334 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C2IE `b 1 e@1134 ]
+"335 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _OSFIE `b 1 e@1135 ]
+"338 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BOR `Vb 1 e@1136 ]
+"339 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _POR `Vb 1 e@1137 ]
+"340 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SBOREN `b 1 e@1140 ]
+"341 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ULPWUE `b 1 e@1141 ]
+"344 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SCS `b 1 e@1144 ]
+"345 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _LTS `Vb 1 e@1145 ]
+"346 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _HTS `Vb 1 e@1146 ]
+"347 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _OSTS `Vb 1 e@1147 ]
+"348 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IRCF0 `b 1 e@1148 ]
+"349 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IRCF1 `b 1 e@1149 ]
+"350 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IRCF2 `b 1 e@1150 ]
+"353 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TUN0 `b 1 e@1152 ]
+"354 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TUN1 `b 1 e@1153 ]
+"355 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TUN2 `b 1 e@1154 ]
+"356 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TUN3 `b 1 e@1155 ]
+"357 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TUN4 `b 1 e@1156 ]
+"360 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SEN `b 1 e@1160 ]
+"361 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RSEN `Vb 1 e@1161 ]
+"362 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PEN `Vb 1 e@1162 ]
+"363 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RCEN `Vb 1 e@1163 ]
+"364 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ACKEN `Vb 1 e@1164 ]
+"365 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ACKDT `Vb 1 e@1165 ]
+"366 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ACKSTAT `Vb 1 e@1166 ]
+"367 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _GCEN `b 1 e@1167 ]
+"370 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BF `Vb 1 e@1184 ]
+"371 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _UA `Vb 1 e@1185 ]
+"372 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RW `Vb 1 e@1186 ]
+"373 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _START `Vb 1 e@1187 ]
+"374 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _STOP `Vb 1 e@1188 ]
+"375 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _DA `Vb 1 e@1189 ]
+"376 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CKE `b 1 e@1190 ]
+"377 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SMP `b 1 e@1191 ]
+"380 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WPUB0 `b 1 e@1192 ]
+"381 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WPUB1 `b 1 e@1193 ]
+"382 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WPUB2 `b 1 e@1194 ]
+"383 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WPUB3 `b 1 e@1195 ]
+"384 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WPUB4 `b 1 e@1196 ]
+"385 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WPUB5 `b 1 e@1197 ]
+"386 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WPUB6 `b 1 e@1198 ]
+"387 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WPUB7 `b 1 e@1199 ]
+"390 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IOCB0 `b 1 e@1200 ]
+"391 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IOCB1 `b 1 e@1201 ]
+"392 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IOCB2 `b 1 e@1202 ]
+"393 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IOCB3 `b 1 e@1203 ]
+"394 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IOCB4 `b 1 e@1204 ]
+"395 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IOCB5 `b 1 e@1205 ]
+"396 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IOCB6 `b 1 e@1206 ]
+"397 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _IOCB7 `b 1 e@1207 ]
+"400 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _VR0 `b 1 e@1208 ]
+"401 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _VR1 `b 1 e@1209 ]
+"402 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _VR2 `b 1 e@1210 ]
+"403 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _VR3 `b 1 e@1211 ]
+"404 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _VRSS `b 1 e@1212 ]
+"405 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _VRR `b 1 e@1213 ]
+"406 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _VROE `b 1 e@1214 ]
+"407 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _VREN `b 1 e@1215 ]
+"410 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TX9D `Vb 1 e@1216 ]
+"411 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TRMT `Vb 1 e@1217 ]
+"412 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRGH `b 1 e@1218 ]
+"413 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SENDB `b 1 e@1219 ]
+"414 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SYNC `b 1 e@1220 ]
+"415 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TXEN `b 1 e@1221 ]
+"416 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _TX9 `b 1 e@1222 ]
+"417 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _CSRC `b 1 e@1223 ]
+"420 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG0 `b 1 e@1224 ]
+"421 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG1 `b 1 e@1225 ]
+"422 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG2 `b 1 e@1226 ]
+"423 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG3 `b 1 e@1227 ]
+"424 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG4 `b 1 e@1228 ]
+"425 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG5 `b 1 e@1229 ]
+"426 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG6 `b 1 e@1230 ]
+"427 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG7 `b 1 e@1231 ]
+"430 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG8 `b 1 e@1232 ]
+"431 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG9 `b 1 e@1233 ]
+"432 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG10 `b 1 e@1234 ]
+"433 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG11 `b 1 e@1235 ]
+"434 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG12 `b 1 e@1236 ]
+"435 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG13 `b 1 e@1237 ]
+"436 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG14 `b 1 e@1238 ]
+"437 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG15 `b 1 e@1239 ]
+"440 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PDC0 `Vb 1 e@1240 ]
+"441 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PDC1 `Vb 1 e@1241 ]
+"442 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PDC2 `Vb 1 e@1242 ]
+"443 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PDC3 `Vb 1 e@1243 ]
+"444 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PDC4 `Vb 1 e@1244 ]
+"445 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PDC5 `Vb 1 e@1245 ]
+"446 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PDC6 `Vb 1 e@1246 ]
+"447 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PRSEN `Vb 1 e@1247 ]
+"450 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PSSBD0 `b 1 e@1248 ]
+"451 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PSSBD1 `b 1 e@1249 ]
+"452 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PSSAC0 `b 1 e@1250 ]
+"453 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PSSAC1 `b 1 e@1251 ]
+"454 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ECCPAS0 `b 1 e@1252 ]
+"455 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ECCPAS1 `b 1 e@1253 ]
+"456 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ECCPAS2 `b 1 e@1254 ]
+"457 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ECCPASE `Vb 1 e@1255 ]
+"460 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _STRA `Vb 1 e@1256 ]
+"461 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _STRB `Vb 1 e@1257 ]
+"462 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _STRC `Vb 1 e@1258 ]
+"463 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _STRD `Vb 1 e@1259 ]
+"464 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _STRSYNC `Vb 1 e@1260 ]
+"467 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _VCFG0 `b 1 e@1276 ]
+"468 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _VCFG1 `b 1 e@1277 ]
+"469 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ADFM `b 1 e@1279 ]
+"472 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SWDTEN `b 1 e@2088 ]
+"473 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WDTPS0 `b 1 e@2089 ]
+"474 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WDTPS1 `b 1 e@2090 ]
+"475 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WDTPS2 `b 1 e@2091 ]
+"476 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WDTPS3 `b 1 e@2092 ]
+"479 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C1CH0 `b 1 e@2104 ]
+"480 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C1CH1 `b 1 e@2105 ]
+"481 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C1R `b 1 e@2106 ]
+"482 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C1POL `b 1 e@2108 ]
+"483 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C1OE `b 1 e@2109 ]
+"484 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C1OUT `Vb 1 e@2110 ]
+"485 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C1ON `b 1 e@2111 ]
+"488 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C2CH0 `b 1 e@2112 ]
+"489 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C2CH1 `b 1 e@2113 ]
+"490 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C2R `b 1 e@2114 ]
+"491 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C2POL `b 1 e@2116 ]
+"492 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C2OE `b 1 e@2117 ]
+"493 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C2OUT `Vb 1 e@2118 ]
+"494 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C2ON `b 1 e@2119 ]
+"497 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C2SYNC `b 1 e@2120 ]
+"498 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _T1GSS `b 1 e@2121 ]
+"499 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C2RSEL `b 1 e@2124 ]
+"500 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C1RSEL `b 1 e@2125 ]
+"501 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _MC2OUT `Vb 1 e@2126 ]
+"502 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _MC1OUT `Vb 1 e@2127 ]
+"505 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _FVREN `b 1 e@3112 ]
+"506 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PULSR `Vb 1 e@3114 ]
+"507 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _PULSS `Vb 1 e@3115 ]
+"508 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C2REN `b 1 e@3116 ]
+"509 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _C1SEN `b 1 e@3117 ]
+"510 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SR0 `b 1 e@3118 ]
+"511 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SR1 `b 1 e@3119 ]
+"514 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ABDEN `Vb 1 e@3128 ]
+"515 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WUE `Vb 1 e@3129 ]
+"516 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _BRG16 `b 1 e@3131 ]
+"517 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _SCKP `Vb 1 e@3132 ]
+"518 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RCIDL `Vb 1 e@3134 ]
+"519 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ABDOVF `Vb 1 e@3135 ]
+"522 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANS0 `b 1 e@3136 ]
+"523 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANS1 `b 1 e@3137 ]
+"524 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANS2 `b 1 e@3138 ]
+"525 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANS3 `b 1 e@3139 ]
+"526 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANS4 `b 1 e@3140 ]
+"534 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANS8 `b 1 e@3144 ]
+"535 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANS9 `b 1 e@3145 ]
+"536 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANS10 `b 1 e@3146 ]
+"537 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANS11 `b 1 e@3147 ]
+"538 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANS12 `b 1 e@3148 ]
+"539 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _ANS13 `b 1 e@3149 ]
+"542 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _RD `Vb 1 e@3168 ]
+"543 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WR `Vb 1 e@3169 ]
+"544 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WREN `Vb 1 e@3170 ]
+"545 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _WRERR `Vb 1 e@3171 ]
+"546 F:\cjbc_zmz\subclock\SZZ485_V1.5.01\include\pic16f887.h
+[v _EEPGD `Vb 1 e@3175 ]
+[; ;pic16f887.h: 19: volatile unsigned char INDF @ 0x000;
+[; ;pic16f887.h: 20: volatile unsigned char TMR0 @ 0x001;
+[; ;pic16f887.h: 21: volatile unsigned char PCL @ 0x002;
+[; ;pic16f887.h: 22: volatile unsigned char STATUS @ 0x003;
+[; ;pic16f887.h: 23: unsigned char FSR @ 0x004;
+[; ;pic16f887.h: 24: volatile unsigned char PORTA @ 0x005;
+[; ;pic16f887.h: 25: volatile unsigned char PORTB @ 0x006;
+[; ;pic16f887.h: 26: volatile unsigned char PORTC @ 0x007;
+[; ;pic16f887.h: 30: volatile unsigned char PORTE @ 0x009;
+[; ;pic16f887.h: 31: volatile unsigned char PCLATH @ 0x00A;
+[; ;pic16f887.h: 32: volatile unsigned char INTCON @ 0x00B;
+[; ;pic16f887.h: 33: volatile unsigned char PIR1 @ 0x00C;
+[; ;pic16f887.h: 34: volatile unsigned char PIR2 @ 0x00D;
+[; ;pic16f887.h: 35: volatile unsigned char TMR1L @ 0x00E;
+[; ;pic16f887.h: 36: volatile unsigned char TMR1H @ 0x00F;
+[; ;pic16f887.h: 37: unsigned char T1CON @ 0x010;
+[; ;pic16f887.h: 38: volatile unsigned char TMR2 @ 0x011;
+[; ;pic16f887.h: 39: unsigned char T2CON @ 0x012;
+[; ;pic16f887.h: 40: volatile unsigned char SSPBUF @ 0x013;
+[; ;pic16f887.h: 41: volatile unsigned char SSPCON @ 0x014;
+[; ;pic16f887.h: 42: volatile unsigned char CCPR1L @ 0x015;
+[; ;pic16f887.h: 43: volatile unsigned char CCPR1H @ 0x016;
+[; ;pic16f887.h: 44: volatile unsigned char CCP1CON @ 0x017;
+[; ;pic16f887.h: 45: volatile unsigned char RCSTA @ 0x018;
+[; ;pic16f887.h: 46: volatile unsigned char TXREG @ 0x019;
+[; ;pic16f887.h: 47: volatile unsigned char RCREG @ 0x01A;
+[; ;pic16f887.h: 48: volatile unsigned char CCPR2L @ 0x01B;
+[; ;pic16f887.h: 49: volatile unsigned char CCPR2H @ 0x01C;
+[; ;pic16f887.h: 50: volatile unsigned char CCP2CON @ 0x01D;
+[; ;pic16f887.h: 51: volatile unsigned char ADRESH @ 0x01E;
+[; ;pic16f887.h: 52: volatile unsigned char ADCON0 @ 0x01F;
+[; ;pic16f887.h: 53: unsigned char OPTION @ 0x081;
+[; ;pic16f887.h: 54: volatile unsigned char TRISA @ 0x085;
+[; ;pic16f887.h: 55: volatile unsigned char TRISB @ 0x086;
+[; ;pic16f887.h: 56: volatile unsigned char TRISC @ 0x087;
+[; ;pic16f887.h: 60: volatile unsigned char TRISE @ 0x089;
+[; ;pic16f887.h: 61: unsigned char PIE1 @ 0x08C;
+[; ;pic16f887.h: 62: unsigned char PIE2 @ 0x08D;
+[; ;pic16f887.h: 63: volatile unsigned char PCON @ 0x08E;
+[; ;pic16f887.h: 64: volatile unsigned char OSCCON @ 0x08F;
+[; ;pic16f887.h: 65: unsigned char OSCTUNE @ 0x090;
+[; ;pic16f887.h: 66: volatile unsigned char SSPCON2 @ 0x091;
+[; ;pic16f887.h: 67: unsigned char PR2 @ 0x092;
+[; ;pic16f887.h: 68: unsigned char SSPADD @ 0x093;
+[; ;pic16f887.h: 69: unsigned char SSPMSK @ 0x093;
+[; ;pic16f887.h: 70: volatile unsigned char SSPSTAT @ 0x094;
+[; ;pic16f887.h: 71: unsigned char WPUB @ 0x095;
+[; ;pic16f887.h: 72: unsigned char IOCB @ 0x096;
+[; ;pic16f887.h: 73: unsigned char VRCON @ 0x097;
+[; ;pic16f887.h: 74: volatile unsigned char TXSTA @ 0x098;
+[; ;pic16f887.h: 75: unsigned char SPBRG @ 0x099;
+[; ;pic16f887.h: 76: unsigned char SPBRGH @ 0x09A;
+[; ;pic16f887.h: 77: volatile unsigned char PWM1CON @ 0x09B;
+[; ;pic16f887.h: 78: volatile unsigned char ECCPAS @ 0x09C;
+[; ;pic16f887.h: 79: volatile unsigned char PSTRCON @ 0x09D;
+[; ;pic16f887.h: 80: volatile unsigned char ADRESL @ 0x09E;
+[; ;pic16f887.h: 81: unsigned char ADCON1 @ 0x09F;
+[; ;pic16f887.h: 82: volatile unsigned char WDTCON @ 0x105;
+[; ;pic16f887.h: 83: volatile unsigned char CM1CON0 @ 0x107;
+[; ;pic16f887.h: 84: volatile unsigned char CM2CON0 @ 0x108;
+[; ;pic16f887.h: 85: volatile unsigned char CM2CON1 @ 0x109;
+[; ;pic16f887.h: 86: volatile unsigned char EEDAT @ 0x10C;
+[; ;pic16f887.h: 88: volatile unsigned char EEDATA @ 0x10C;
+[; ;pic16f887.h: 89: volatile unsigned char EEADR @ 0x10D;
+[; ;pic16f887.h: 91: volatile unsigned char EEADRL @ 0x10D;
+[; ;pic16f887.h: 92: volatile unsigned char EEDATH @ 0x10E;
+[; ;pic16f887.h: 93: volatile unsigned char EEADRH @ 0x10F;
+[; ;pic16f887.h: 94: volatile unsigned char SRCON @ 0x185;
+[; ;pic16f887.h: 95: volatile unsigned char BAUDCTL @ 0x187;
+[; ;pic16f887.h: 96: unsigned char ANSEL @ 0x188;
+[; ;pic16f887.h: 97: unsigned char ANSELH @ 0x189;
+[; ;pic16f887.h: 98: volatile unsigned char EECON1 @ 0x18C;
+[; ;pic16f887.h: 99: volatile unsigned char EECON2 @ 0x18D;
+[; ;pic16f887.h: 103: volatile bit CARRY @ ((unsigned)&STATUS*8)+0;
+[; ;pic16f887.h: 104: volatile bit DC @ ((unsigned)&STATUS*8)+1;
+[; ;pic16f887.h: 105: volatile bit ZERO @ ((unsigned)&STATUS*8)+2;
+[; ;pic16f887.h: 106: volatile bit PD @ ((unsigned)&STATUS*8)+3;
+[; ;pic16f887.h: 107: volatile bit TO @ ((unsigned)&STATUS*8)+4;
+[; ;pic16f887.h: 108: bit RP0 @ ((unsigned)&STATUS*8)+5;
+[; ;pic16f887.h: 109: bit RP1 @ ((unsigned)&STATUS*8)+6;
+[; ;pic16f887.h: 110: bit IRP @ ((unsigned)&STATUS*8)+7;
+[; ;pic16f887.h: 113: volatile bit RA0 @ ((unsigned)&PORTA*8)+0;
+[; ;pic16f887.h: 114: volatile bit RA1 @ ((unsigned)&PORTA*8)+1;
+[; ;pic16f887.h: 115: volatile bit RA2 @ ((unsigned)&PORTA*8)+2;
+[; ;pic16f887.h: 116: volatile bit RA3 @ ((unsigned)&PORTA*8)+3;
+[; ;pic16f887.h: 117: volatile bit RA4 @ ((unsigned)&PORTA*8)+4;
+[; ;pic16f887.h: 118: volatile bit RA5 @ ((unsigned)&PORTA*8)+5;
+[; ;pic16f887.h: 119: volatile bit RA6 @ ((unsigned)&PORTA*8)+6;
+[; ;pic16f887.h: 120: volatile bit RA7 @ ((unsigned)&PORTA*8)+7;
+[; ;pic16f887.h: 123: volatile bit RB0 @ ((unsigned)&PORTB*8)+0;
+[; ;pic16f887.h: 124: volatile bit RB1 @ ((unsigned)&PORTB*8)+1;
+[; ;pic16f887.h: 125: volatile bit RB2 @ ((unsigned)&PORTB*8)+2;
+[; ;pic16f887.h: 126: volatile bit RB3 @ ((unsigned)&PORTB*8)+3;
+[; ;pic16f887.h: 127: volatile bit RB4 @ ((unsigned)&PORTB*8)+4;
+[; ;pic16f887.h: 128: volatile bit RB5 @ ((unsigned)&PORTB*8)+5;
+[; ;pic16f887.h: 129: volatile bit RB6 @ ((unsigned)&PORTB*8)+6;
+[; ;pic16f887.h: 130: volatile bit RB7 @ ((unsigned)&PORTB*8)+7;
+[; ;pic16f887.h: 133: volatile bit RC0 @ ((unsigned)&PORTC*8)+0;
+[; ;pic16f887.h: 134: volatile bit RC1 @ ((unsigned)&PORTC*8)+1;
+[; ;pic16f887.h: 135: volatile bit RC2 @ ((unsigned)&PORTC*8)+2;
+[; ;pic16f887.h: 136: volatile bit RC3 @ ((unsigned)&PORTC*8)+3;
+[; ;pic16f887.h: 137: volatile bit RC4 @ ((unsigned)&PORTC*8)+4;
+[; ;pic16f887.h: 138: volatile bit RC5 @ ((unsigned)&PORTC*8)+5;
+[; ;pic16f887.h: 139: volatile bit RC6 @ ((unsigned)&PORTC*8)+6;
+[; ;pic16f887.h: 140: volatile bit RC7 @ ((unsigned)&PORTC*8)+7;
+[; ;pic16f887.h: 158: volatile bit RE3 @ ((unsigned)&PORTE*8)+3;
+[; ;pic16f887.h: 161: volatile bit RBIF @ ((unsigned)&INTCON*8)+0;
+[; ;pic16f887.h: 163: volatile bit RABIF @ ((unsigned)&INTCON*8)+0;
+[; ;pic16f887.h: 164: volatile bit INTF @ ((unsigned)&INTCON*8)+1;
+[; ;pic16f887.h: 165: volatile bit T0IF @ ((unsigned)&INTCON*8)+2;
+[; ;pic16f887.h: 166: bit RBIE @ ((unsigned)&INTCON*8)+3;
+[; ;pic16f887.h: 168: bit RABIE @ ((unsigned)&INTCON*8)+3;
+[; ;pic16f887.h: 169: bit INTE @ ((unsigned)&INTCON*8)+4;
+[; ;pic16f887.h: 170: bit T0IE @ ((unsigned)&INTCON*8)+5;
+[; ;pic16f887.h: 171: bit PEIE @ ((unsigned)&INTCON*8)+6;
+[; ;pic16f887.h: 172: volatile bit GIE @ ((unsigned)&INTCON*8)+7;
+[; ;pic16f887.h: 175: volatile bit TMR1IF @ ((unsigned)&PIR1*8)+0;
+[; ;pic16f887.h: 176: volatile bit TMR2IF @ ((unsigned)&PIR1*8)+1;
+[; ;pic16f887.h: 177: volatile bit CCP1IF @ ((unsigned)&PIR1*8)+2;
+[; ;pic16f887.h: 178: volatile bit SSPIF @ ((unsigned)&PIR1*8)+3;
+[; ;pic16f887.h: 179: volatile bit TXIF @ ((unsigned)&PIR1*8)+4;
+[; ;pic16f887.h: 180: volatile bit RCIF @ ((unsigned)&PIR1*8)+5;
+[; ;pic16f887.h: 181: volatile bit ADIF @ ((unsigned)&PIR1*8)+6;
+[; ;pic16f887.h: 184: volatile bit CCP2IF @ ((unsigned)&PIR2*8)+0;
+[; ;pic16f887.h: 185: volatile bit ULPWUIF @ ((unsigned)&PIR2*8)+2;
+[; ;pic16f887.h: 186: volatile bit BCLIF @ ((unsigned)&PIR2*8)+3;
+[; ;pic16f887.h: 187: volatile bit EEIF @ ((unsigned)&PIR2*8)+4;
+[; ;pic16f887.h: 188: volatile bit C1IF @ ((unsigned)&PIR2*8)+5;
+[; ;pic16f887.h: 189: volatile bit C2IF @ ((unsigned)&PIR2*8)+6;
+[; ;pic16f887.h: 190: volatile bit OSFIF @ ((unsigned)&PIR2*8)+7;
+[; ;pic16f887.h: 193: bit TMR1ON @ ((unsigned)&T1CON*8)+0;
+[; ;pic16f887.h: 194: bit TMR1CS @ ((unsigned)&T1CON*8)+1;
+[; ;pic16f887.h: 195: bit T1SYNC @ ((unsigned)&T1CON*8)+2;
+[; ;pic16f887.h: 196: bit T1OSCEN @ ((unsigned)&T1CON*8)+3;
+[; ;pic16f887.h: 197: bit T1CKPS0 @ ((unsigned)&T1CON*8)+4;
+[; ;pic16f887.h: 198: bit T1CKPS1 @ ((unsigned)&T1CON*8)+5;
+[; ;pic16f887.h: 199: bit TMR1GE @ ((unsigned)&T1CON*8)+6;
+[; ;pic16f887.h: 200: bit T1GINV @ ((unsigned)&T1CON*8)+7;
+[; ;pic16f887.h: 203: bit T2CKPS0 @ ((unsigned)&T2CON*8)+0;
+[; ;pic16f887.h: 204: bit T2CKPS1 @ ((unsigned)&T2CON*8)+1;
+[; ;pic16f887.h: 205: bit TMR2ON @ ((unsigned)&T2CON*8)+2;
+[; ;pic16f887.h: 206: bit TOUTPS0 @ ((unsigned)&T2CON*8)+3;
+[; ;pic16f887.h: 207: bit TOUTPS1 @ ((unsigned)&T2CON*8)+4;
+[; ;pic16f887.h: 208: bit TOUTPS2 @ ((unsigned)&T2CON*8)+5;
+[; ;pic16f887.h: 209: bit TOUTPS3 @ ((unsigned)&T2CON*8)+6;
+[; ;pic16f887.h: 212: bit SSPM0 @ ((unsigned)&SSPCON*8)+0;
+[; ;pic16f887.h: 213: bit SSPM1 @ ((unsigned)&SSPCON*8)+1;
+[; ;pic16f887.h: 214: bit SSPM2 @ ((unsigned)&SSPCON*8)+2;
+[; ;pic16f887.h: 215: bit SSPM3 @ ((unsigned)&SSPCON*8)+3;
+[; ;pic16f887.h: 216: bit CKP @ ((unsigned)&SSPCON*8)+4;
+[; ;pic16f887.h: 217: bit SSPEN @ ((unsigned)&SSPCON*8)+5;
+[; ;pic16f887.h: 218: volatile bit SSPOV @ ((unsigned)&SSPCON*8)+6;
+[; ;pic16f887.h: 219: volatile bit WCOL @ ((unsigned)&SSPCON*8)+7;
+[; ;pic16f887.h: 222: bit CCP1M0 @ ((unsigned)&CCP1CON*8)+0;
+[; ;pic16f887.h: 223: bit CCP1M1 @ ((unsigned)&CCP1CON*8)+1;
+[; ;pic16f887.h: 224: bit CCP1M2 @ ((unsigned)&CCP1CON*8)+2;
+[; ;pic16f887.h: 225: bit CCP1M3 @ ((unsigned)&CCP1CON*8)+3;
+[; ;pic16f887.h: 226: bit DC1B0 @ ((unsigned)&CCP1CON*8)+4;
+[; ;pic16f887.h: 227: bit DC1B1 @ ((unsigned)&CCP1CON*8)+5;
+[; ;pic16f887.h: 228: bit P1M0 @ ((unsigned)&CCP1CON*8)+6;
+[; ;pic16f887.h: 229: bit P1M1 @ ((unsigned)&CCP1CON*8)+7;
+[; ;pic16f887.h: 232: volatile bit RX9D @ ((unsigned)&RCSTA*8)+0;
+[; ;pic16f887.h: 233: volatile bit OERR @ ((unsigned)&RCSTA*8)+1;
+[; ;pic16f887.h: 234: volatile bit FERR @ ((unsigned)&RCSTA*8)+2;
+[; ;pic16f887.h: 235: bit ADDEN @ ((unsigned)&RCSTA*8)+3;
+[; ;pic16f887.h: 236: bit CREN @ ((unsigned)&RCSTA*8)+4;
+[; ;pic16f887.h: 237: bit SREN @ ((unsigned)&RCSTA*8)+5;
+[; ;pic16f887.h: 238: bit RX9 @ ((unsigned)&RCSTA*8)+6;
+[; ;pic16f887.h: 239: bit SPEN @ ((unsigned)&RCSTA*8)+7;
+[; ;pic16f887.h: 242: bit CCP2M0 @ ((unsigned)&CCP2CON*8)+0;
+[; ;pic16f887.h: 243: bit CCP2M1 @ ((unsigned)&CCP2CON*8)+1;
+[; ;pic16f887.h: 244: bit CCP2M2 @ ((unsigned)&CCP2CON*8)+2;
+[; ;pic16f887.h: 245: bit CCP2M3 @ ((unsigned)&CCP2CON*8)+3;
+[; ;pic16f887.h: 246: volatile bit CCP2Y @ ((unsigned)&CCP2CON*8)+4;
+[; ;pic16f887.h: 247: volatile bit CCP2X @ ((unsigned)&CCP2CON*8)+5;
+[; ;pic16f887.h: 250: bit ADON @ ((unsigned)&ADCON0*8)+0;
+[; ;pic16f887.h: 251: volatile bit GODONE @ ((unsigned)&ADCON0*8)+1;
+[; ;pic16f887.h: 252: bit CHS0 @ ((unsigned)&ADCON0*8)+2;
+[; ;pic16f887.h: 253: bit CHS1 @ ((unsigned)&ADCON0*8)+3;
+[; ;pic16f887.h: 254: bit CHS2 @ ((unsigned)&ADCON0*8)+4;
+[; ;pic16f887.h: 255: bit CHS3 @ ((unsigned)&ADCON0*8)+5;
+[; ;pic16f887.h: 256: bit ADCS0 @ ((unsigned)&ADCON0*8)+6;
+[; ;pic16f887.h: 257: bit ADCS1 @ ((unsigned)&ADCON0*8)+7;
+[; ;pic16f887.h: 260: bit PS0 @ ((unsigned)&OPTION*8)+0;
+[; ;pic16f887.h: 261: bit PS1 @ ((unsigned)&OPTION*8)+1;
+[; ;pic16f887.h: 262: bit PS2 @ ((unsigned)&OPTION*8)+2;
+[; ;pic16f887.h: 263: bit PSA @ ((unsigned)&OPTION*8)+3;
+[; ;pic16f887.h: 264: bit T0SE @ ((unsigned)&OPTION*8)+4;
+[; ;pic16f887.h: 265: bit T0CS @ ((unsigned)&OPTION*8)+5;
+[; ;pic16f887.h: 266: bit INTEDG @ ((unsigned)&OPTION*8)+6;
+[; ;pic16f887.h: 267: bit RBPU @ ((unsigned)&OPTION*8)+7;
+[; ;pic16f887.h: 269: bit RABPU @ ((unsigned)&OPTION*8)+7;
+[; ;pic16f887.h: 272: bit TRISA0 @ ((unsigned)&TRISA*8)+0;
+[; ;pic16f887.h: 273: bit TRISA1 @ ((unsigned)&TRISA*8)+1;
+[; ;pic16f887.h: 274: bit TRISA2 @ ((unsigned)&TRISA*8)+2;
+[; ;pic16f887.h: 275: bit TRISA3 @ ((unsigned)&TRISA*8)+3;
+[; ;pic16f887.h: 276: bit TRISA4 @ ((unsigned)&TRISA*8)+4;
+[; ;pic16f887.h: 277: bit TRISA5 @ ((unsigned)&TRISA*8)+5;
+[; ;pic16f887.h: 278: bit TRISA6 @ ((unsigned)&TRISA*8)+6;
+[; ;pic16f887.h: 279: bit TRISA7 @ ((unsigned)&TRISA*8)+7;
+[; ;pic16f887.h: 282: volatile bit TRISB0 @ ((unsigned)&TRISB*8)+0;
+[; ;pic16f887.h: 283: volatile bit TRISB1 @ ((unsigned)&TRISB*8)+1;
+[; ;pic16f887.h: 284: volatile bit TRISB2 @ ((unsigned)&TRISB*8)+2;
+[; ;pic16f887.h: 285: volatile bit TRISB3 @ ((unsigned)&TRISB*8)+3;
+[; ;pic16f887.h: 286: volatile bit TRISB4 @ ((unsigned)&TRISB*8)+4;
+[; ;pic16f887.h: 287: volatile bit TRISB5 @ ((unsigned)&TRISB*8)+5;
+[; ;pic16f887.h: 288: volatile bit TRISB6 @ ((unsigned)&TRISB*8)+6;
+[; ;pic16f887.h: 289: volatile bit TRISB7 @ ((unsigned)&TRISB*8)+7;
+[; ;pic16f887.h: 292: volatile bit TRISC0 @ ((unsigned)&TRISC*8)+0;
+[; ;pic16f887.h: 293: volatile bit TRISC1 @ ((unsigned)&TRISC*8)+1;
+[; ;pic16f887.h: 294: volatile bit TRISC2 @ ((unsigned)&TRISC*8)+2;
+[; ;pic16f887.h: 295: volatile bit TRISC3 @ ((unsigned)&TRISC*8)+3;
+[; ;pic16f887.h: 296: volatile bit TRISC4 @ ((unsigned)&TRISC*8)+4;
+[; ;pic16f887.h: 297: volatile bit TRISC5 @ ((unsigned)&TRISC*8)+5;
+[; ;pic16f887.h: 298: volatile bit TRISC6 @ ((unsigned)&TRISC*8)+6;
+[; ;pic16f887.h: 299: volatile bit TRISC7 @ ((unsigned)&TRISC*8)+7;
+[; ;pic16f887.h: 317: volatile bit TRISE3 @ ((unsigned)&TRISE*8)+3;
+[; ;pic16f887.h: 320: bit TMR1IE @ ((unsigned)&PIE1*8)+0;
+[; ;pic16f887.h: 321: bit TMR2IE @ ((unsigned)&PIE1*8)+1;
+[; ;pic16f887.h: 322: bit CCP1IE @ ((unsigned)&PIE1*8)+2;
+[; ;pic16f887.h: 323: bit SSPIE @ ((unsigned)&PIE1*8)+3;
+[; ;pic16f887.h: 324: bit TXIE @ ((unsigned)&PIE1*8)+4;
+[; ;pic16f887.h: 325: bit RCIE @ ((unsigned)&PIE1*8)+5;
+[; ;pic16f887.h: 326: bit ADIE @ ((unsigned)&PIE1*8)+6;
+[; ;pic16f887.h: 329: bit CCP2IE @ ((unsigned)&PIE2*8)+0;
+[; ;pic16f887.h: 330: bit ULPWUIE @ ((unsigned)&PIE2*8)+2;
+[; ;pic16f887.h: 331: bit BCLIE @ ((unsigned)&PIE2*8)+3;
+[; ;pic16f887.h: 332: bit EEIE @ ((unsigned)&PIE2*8)+4;
+[; ;pic16f887.h: 333: bit C1IE @ ((unsigned)&PIE2*8)+5;
+[; ;pic16f887.h: 334: bit C2IE @ ((unsigned)&PIE2*8)+6;
+[; ;pic16f887.h: 335: bit OSFIE @ ((unsigned)&PIE2*8)+7;
+[; ;pic16f887.h: 338: volatile bit BOR @ ((unsigned)&PCON*8)+0;
+[; ;pic16f887.h: 339: volatile bit POR @ ((unsigned)&PCON*8)+1;
+[; ;pic16f887.h: 340: bit SBOREN @ ((unsigned)&PCON*8)+4;
+[; ;pic16f887.h: 341: bit ULPWUE @ ((unsigned)&PCON*8)+5;
+[; ;pic16f887.h: 344: bit SCS @ ((unsigned)&OSCCON*8)+0;
+[; ;pic16f887.h: 345: volatile bit LTS @ ((unsigned)&OSCCON*8)+1;
+[; ;pic16f887.h: 346: volatile bit HTS @ ((unsigned)&OSCCON*8)+2;
+[; ;pic16f887.h: 347: volatile bit OSTS @ ((unsigned)&OSCCON*8)+3;
+[; ;pic16f887.h: 348: bit IRCF0 @ ((unsigned)&OSCCON*8)+4;
+[; ;pic16f887.h: 349: bit IRCF1 @ ((unsigned)&OSCCON*8)+5;
+[; ;pic16f887.h: 350: bit IRCF2 @ ((unsigned)&OSCCON*8)+6;
+[; ;pic16f887.h: 353: bit TUN0 @ ((unsigned)&OSCTUNE*8)+0;
+[; ;pic16f887.h: 354: bit TUN1 @ ((unsigned)&OSCTUNE*8)+1;
+[; ;pic16f887.h: 355: bit TUN2 @ ((unsigned)&OSCTUNE*8)+2;
+[; ;pic16f887.h: 356: bit TUN3 @ ((unsigned)&OSCTUNE*8)+3;
+[; ;pic16f887.h: 357: bit TUN4 @ ((unsigned)&OSCTUNE*8)+4;
+[; ;pic16f887.h: 360: bit SEN @ ((unsigned)&SSPCON2*8)+0;
+[; ;pic16f887.h: 361: volatile bit RSEN @ ((unsigned)&SSPCON2*8)+1;
+[; ;pic16f887.h: 362: volatile bit PEN @ ((unsigned)&SSPCON2*8)+2;
+[; ;pic16f887.h: 363: volatile bit RCEN @ ((unsigned)&SSPCON2*8)+3;
+[; ;pic16f887.h: 364: volatile bit ACKEN @ ((unsigned)&SSPCON2*8)+4;
+[; ;pic16f887.h: 365: volatile bit ACKDT @ ((unsigned)&SSPCON2*8)+5;
+[; ;pic16f887.h: 366: volatile bit ACKSTAT @ ((unsigned)&SSPCON2*8)+6;
+[; ;pic16f887.h: 367: bit GCEN @ ((unsigned)&SSPCON2*8)+7;
+[; ;pic16f887.h: 370: volatile bit BF @ ((unsigned)&SSPSTAT*8)+0;
+[; ;pic16f887.h: 371: volatile bit UA @ ((unsigned)&SSPSTAT*8)+1;
+[; ;pic16f887.h: 372: volatile bit RW @ ((unsigned)&SSPSTAT*8)+2;
+[; ;pic16f887.h: 373: volatile bit START @ ((unsigned)&SSPSTAT*8)+3;
+[; ;pic16f887.h: 374: volatile bit STOP @ ((unsigned)&SSPSTAT*8)+4;
+[; ;pic16f887.h: 375: volatile bit DA @ ((unsigned)&SSPSTAT*8)+5;
+[; ;pic16f887.h: 376: bit CKE @ ((unsigned)&SSPSTAT*8)+6;
+[; ;pic16f887.h: 377: bit SMP @ ((unsigned)&SSPSTAT*8)+7;
+[; ;pic16f887.h: 380: bit WPUB0 @ ((unsigned)&WPUB*8)+0;
+[; ;pic16f887.h: 381: bit WPUB1 @ ((unsigned)&WPUB*8)+1;
+[; ;pic16f887.h: 382: bit WPUB2 @ ((unsigned)&WPUB*8)+2;
+[; ;pic16f887.h: 383: bit WPUB3 @ ((unsigned)&WPUB*8)+3;
+[; ;pic16f887.h: 384: bit WPUB4 @ ((unsigned)&WPUB*8)+4;
+[; ;pic16f887.h: 385: bit WPUB5 @ ((unsigned)&WPUB*8)+5;
+[; ;pic16f887.h: 386: bit WPUB6 @ ((unsigned)&WPUB*8)+6;
+[; ;pic16f887.h: 387: bit WPUB7 @ ((unsigned)&WPUB*8)+7;
+[; ;pic16f887.h: 390: bit IOCB0 @ ((unsigned)&IOCB*8)+0;
+[; ;pic16f887.h: 391: bit IOCB1 @ ((unsigned)&IOCB*8)+1;
+[; ;pic16f887.h: 392: bit IOCB2 @ ((unsigned)&IOCB*8)+2;
+[; ;pic16f887.h: 393: bit IOCB3 @ ((unsigned)&IOCB*8)+3;
+[; ;pic16f887.h: 394: bit IOCB4 @ ((unsigned)&IOCB*8)+4;
+[; ;pic16f887.h: 395: bit IOCB5 @ ((unsigned)&IOCB*8)+5;
+[; ;pic16f887.h: 396: bit IOCB6 @ ((unsigned)&IOCB*8)+6;
+[; ;pic16f887.h: 397: bit IOCB7 @ ((unsigned)&IOCB*8)+7;
+[; ;pic16f887.h: 400: bit VR0 @ ((unsigned)&VRCON*8)+0;
+[; ;pic16f887.h: 401: bit VR1 @ ((unsigned)&VRCON*8)+1;
+[; ;pic16f887.h: 402: bit VR2 @ ((unsigned)&VRCON*8)+2;
+[; ;pic16f887.h: 403: bit VR3 @ ((unsigned)&VRCON*8)+3;
+[; ;pic16f887.h: 404: bit VRSS @ ((unsigned)&VRCON*8)+4;
+[; ;pic16f887.h: 405: bit VRR @ ((unsigned)&VRCON*8)+5;
+[; ;pic16f887.h: 406: bit VROE @ ((unsigned)&VRCON*8)+6;
+[; ;pic16f887.h: 407: bit VREN @ ((unsigned)&VRCON*8)+7;
+[; ;pic16f887.h: 410: volatile bit TX9D @ ((unsigned)&TXSTA*8)+0;
+[; ;pic16f887.h: 411: volatile bit TRMT @ ((unsigned)&TXSTA*8)+1;
+[; ;pic16f887.h: 412: bit BRGH @ ((unsigned)&TXSTA*8)+2;
+[; ;pic16f887.h: 413: bit SENDB @ ((unsigned)&TXSTA*8)+3;
+[; ;pic16f887.h: 414: bit SYNC @ ((unsigned)&TXSTA*8)+4;
+[; ;pic16f887.h: 415: bit TXEN @ ((unsigned)&TXSTA*8)+5;
+[; ;pic16f887.h: 416: bit TX9 @ ((unsigned)&TXSTA*8)+6;
+[; ;pic16f887.h: 417: bit CSRC @ ((unsigned)&TXSTA*8)+7;
+[; ;pic16f887.h: 420: bit BRG0 @ ((unsigned)&SPBRG*8)+0;
+[; ;pic16f887.h: 421: bit BRG1 @ ((unsigned)&SPBRG*8)+1;
+[; ;pic16f887.h: 422: bit BRG2 @ ((unsigned)&SPBRG*8)+2;
+[; ;pic16f887.h: 423: bit BRG3 @ ((unsigned)&SPBRG*8)+3;
+[; ;pic16f887.h: 424: bit BRG4 @ ((unsigned)&SPBRG*8)+4;
+[; ;pic16f887.h: 425: bit BRG5 @ ((unsigned)&SPBRG*8)+5;
+[; ;pic16f887.h: 426: bit BRG6 @ ((unsigned)&SPBRG*8)+6;
+[; ;pic16f887.h: 427: bit BRG7 @ ((unsigned)&SPBRG*8)+7;
+[; ;pic16f887.h: 430: bit BRG8 @ ((unsigned)&SPBRGH*8)+0;
+[; ;pic16f887.h: 431: bit BRG9 @ ((unsigned)&SPBRGH*8)+1;
+[; ;pic16f887.h: 432: bit BRG10 @ ((unsigned)&SPBRGH*8)+2;
+[; ;pic16f887.h: 433: bit BRG11 @ ((unsigned)&SPBRGH*8)+3;
+[; ;pic16f887.h: 434: bit BRG12 @ ((unsigned)&SPBRGH*8)+4;
+[; ;pic16f887.h: 435: bit BRG13 @ ((unsigned)&SPBRGH*8)+5;
+[; ;pic16f887.h: 436: bit BRG14 @ ((unsigned)&SPBRGH*8)+6;
+[; ;pic16f887.h: 437: bit BRG15 @ ((unsigned)&SPBRGH*8)+7;
+[; ;pic16f887.h: 440: volatile bit PDC0 @ ((unsigned)&PWM1CON*8)+0;
+[; ;pic16f887.h: 441: volatile bit PDC1 @ ((unsigned)&PWM1CON*8)+1;
+[; ;pic16f887.h: 442: volatile bit PDC2 @ ((unsigned)&PWM1CON*8)+2;
+[; ;pic16f887.h: 443: volatile bit PDC3 @ ((unsigned)&PWM1CON*8)+3;
+[; ;pic16f887.h: 444: volatile bit PDC4 @ ((unsigned)&PWM1CON*8)+4;
+[; ;pic16f887.h: 445: volatile bit PDC5 @ ((unsigned)&PWM1CON*8)+5;
+[; ;pic16f887.h: 446: volatile bit PDC6 @ ((unsigned)&PWM1CON*8)+6;
+[; ;pic16f887.h: 447: volatile bit PRSEN @ ((unsigned)&PWM1CON*8)+7;
+[; ;pic16f887.h: 450: bit PSSBD0 @ ((unsigned)&ECCPAS*8)+0;
+[; ;pic16f887.h: 451: bit PSSBD1 @ ((unsigned)&ECCPAS*8)+1;
+[; ;pic16f887.h: 452: bit PSSAC0 @ ((unsigned)&ECCPAS*8)+2;
+[; ;pic16f887.h: 453: bit PSSAC1 @ ((unsigned)&ECCPAS*8)+3;
+[; ;pic16f887.h: 454: bit ECCPAS0 @ ((unsigned)&ECCPAS*8)+4;
+[; ;pic16f887.h: 455: bit ECCPAS1 @ ((unsigned)&ECCPAS*8)+5;
+[; ;pic16f887.h: 456: bit ECCPAS2 @ ((unsigned)&ECCPAS*8)+6;
+[; ;pic16f887.h: 457: volatile bit ECCPASE @ ((unsigned)&ECCPAS*8)+7;
+[; ;pic16f887.h: 460: volatile bit STRA @ ((unsigned)&PSTRCON*8)+0;
+[; ;pic16f887.h: 461: volatile bit STRB @ ((unsigned)&PSTRCON*8)+1;
+[; ;pic16f887.h: 462: volatile bit STRC @ ((unsigned)&PSTRCON*8)+2;
+[; ;pic16f887.h: 463: volatile bit STRD @ ((unsigned)&PSTRCON*8)+3;
+[; ;pic16f887.h: 464: volatile bit STRSYNC @ ((unsigned)&PSTRCON*8)+4;
+[; ;pic16f887.h: 467: bit VCFG0 @ ((unsigned)&ADCON1*8)+4;
+[; ;pic16f887.h: 468: bit VCFG1 @ ((unsigned)&ADCON1*8)+5;
+[; ;pic16f887.h: 469: bit ADFM @ ((unsigned)&ADCON1*8)+7;
+[; ;pic16f887.h: 472: bit SWDTEN @ ((unsigned)&WDTCON*8)+0;
+[; ;pic16f887.h: 473: bit WDTPS0 @ ((unsigned)&WDTCON*8)+1;
+[; ;pic16f887.h: 474: bit WDTPS1 @ ((unsigned)&WDTCON*8)+2;
+[; ;pic16f887.h: 475: bit WDTPS2 @ ((unsigned)&WDTCON*8)+3;
+[; ;pic16f887.h: 476: bit WDTPS3 @ ((unsigned)&WDTCON*8)+4;
+[; ;pic16f887.h: 479: bit C1CH0 @ ((unsigned)&CM1CON0*8)+0;
+[; ;pic16f887.h: 480: bit C1CH1 @ ((unsigned)&CM1CON0*8)+1;
+[; ;pic16f887.h: 481: bit C1R @ ((unsigned)&CM1CON0*8)+2;
+[; ;pic16f887.h: 482: bit C1POL @ ((unsigned)&CM1CON0*8)+4;
+[; ;pic16f887.h: 483: bit C1OE @ ((unsigned)&CM1CON0*8)+5;
+[; ;pic16f887.h: 484: volatile bit C1OUT @ ((unsigned)&CM1CON0*8)+6;
+[; ;pic16f887.h: 485: bit C1ON @ ((unsigned)&CM1CON0*8)+7;
+[; ;pic16f887.h: 488: bit C2CH0 @ ((unsigned)&CM2CON0*8)+0;
+[; ;pic16f887.h: 489: bit C2CH1 @ ((unsigned)&CM2CON0*8)+1;
+[; ;pic16f887.h: 490: bit C2R @ ((unsigned)&CM2CON0*8)+2;
+[; ;pic16f887.h: 491: bit C2POL @ ((unsigned)&CM2CON0*8)+4;
+[; ;pic16f887.h: 492: bit C2OE @ ((unsigned)&CM2CON0*8)+5;
+[; ;pic16f887.h: 493: volatile bit C2OUT @ ((unsigned)&CM2CON0*8)+6;
+[; ;pic16f887.h: 494: bit C2ON @ ((unsigned)&CM2CON0*8)+7;
+[; ;pic16f887.h: 497: bit C2SYNC @ ((unsigned)&CM2CON1*8)+0;
+[; ;pic16f887.h: 498: bit T1GSS @ ((unsigned)&CM2CON1*8)+1;
+[; ;pic16f887.h: 499: bit C2RSEL @ ((unsigned)&CM2CON1*8)+4;
+[; ;pic16f887.h: 500: bit C1RSEL @ ((unsigned)&CM2CON1*8)+5;
+[; ;pic16f887.h: 501: volatile bit MC2OUT @ ((unsigned)&CM2CON1*8)+6;
+[; ;pic16f887.h: 502: volatile bit MC1OUT @ ((unsigned)&CM2CON1*8)+7;
+[; ;pic16f887.h: 505: bit FVREN @ ((unsigned)&SRCON*8)+0;
+[; ;pic16f887.h: 506: volatile bit PULSR @ ((unsigned)&SRCON*8)+2;
+[; ;pic16f887.h: 507: volatile bit PULSS @ ((unsigned)&SRCON*8)+3;
+[; ;pic16f887.h: 508: bit C2REN @ ((unsigned)&SRCON*8)+4;
+[; ;pic16f887.h: 509: bit C1SEN @ ((unsigned)&SRCON*8)+5;
+[; ;pic16f887.h: 510: bit SR0 @ ((unsigned)&SRCON*8)+6;
+[; ;pic16f887.h: 511: bit SR1 @ ((unsigned)&SRCON*8)+7;
+[; ;pic16f887.h: 514: volatile bit ABDEN @ ((unsigned)&BAUDCTL*8)+0;
+[; ;pic16f887.h: 515: volatile bit WUE @ ((unsigned)&BAUDCTL*8)+1;
+[; ;pic16f887.h: 516: bit BRG16 @ ((unsigned)&BAUDCTL*8)+3;
+[; ;pic16f887.h: 517: volatile bit SCKP @ ((unsigned)&BAUDCTL*8)+4;
+[; ;pic16f887.h: 518: volatile bit RCIDL @ ((unsigned)&BAUDCTL*8)+6;
+[; ;pic16f887.h: 519: volatile bit ABDOVF @ ((unsigned)&BAUDCTL*8)+7;
+[; ;pic16f887.h: 522: bit ANS0 @ ((unsigned)&ANSEL*8)+0;
+[; ;pic16f887.h: 523: bit ANS1 @ ((unsigned)&ANSEL*8)+1;
+[; ;pic16f887.h: 524: bit ANS2 @ ((unsigned)&ANSEL*8)+2;
+[; ;pic16f887.h: 525: bit ANS3 @ ((unsigned)&ANSEL*8)+3;
+[; ;pic16f887.h: 526: bit ANS4 @ ((unsigned)&ANSEL*8)+4;
+[; ;pic16f887.h: 534: bit ANS8 @ ((unsigned)&ANSELH*8)+0;
+[; ;pic16f887.h: 535: bit ANS9 @ ((unsigned)&ANSELH*8)+1;
+[; ;pic16f887.h: 536: bit ANS10 @ ((unsigned)&ANSELH*8)+2;
+[; ;pic16f887.h: 537: bit ANS11 @ ((unsigned)&ANSELH*8)+3;
+[; ;pic16f887.h: 538: bit ANS12 @ ((unsigned)&ANSELH*8)+4;
+[; ;pic16f887.h: 539: bit ANS13 @ ((unsigned)&ANSELH*8)+5;
+[; ;pic16f887.h: 542: volatile bit RD @ ((unsigned)&EECON1*8)+0;
+[; ;pic16f887.h: 543: volatile bit WR @ ((unsigned)&EECON1*8)+1;
+[; ;pic16f887.h: 544: volatile bit WREN @ ((unsigned)&EECON1*8)+2;
+[; ;pic16f887.h: 545: volatile bit WRERR @ ((unsigned)&EECON1*8)+3;
+[; ;pic16f887.h: 546: volatile bit EEPGD @ ((unsigned)&EECON1*8)+7;
+[; ;pic.h: 307: extern unsigned int flash_read(unsigned short addr);
+[; ;eeprom_routines.h: 41: extern void eeprom_write(unsigned char addr, unsigned char value);
+[; ;eeprom_routines.h: 42: extern unsigned char eeprom_read(unsigned char addr);
+[; ;pic.h: 381: extern void _delay(unsigned long);
+[; ;pic.h: 432: extern bit __timeout, __powerdown;
+[; ;pic.h: 433: extern unsigned char __resetbits;
+[; ;type.h: 4: typedef unsigned char UINT8 ;
+[; ;type.h: 5: typedef signed char INT8;
+[; ;type.h: 6: typedef unsigned short int UINT16;
+[; ;type.h: 7: typedef signed short int INT16;
+[; ;type.h: 8: typedef unsigned long int UINT32;
+[; ;type.h: 9: typedef signed long int INT32;
+[; ;type.h: 10: typedef float F32;
+[; ;type.h: 11: typedef double D32;
+[; ;type.h: 13: typedef enum BOOL_TYPE {FALSE=0, TRUE} BOOL;
+[; ;type.h: 20: typedef struct _TIME
+[; ;type.h: 21: {
+[; ;type.h: 22: unsigned char hour;
+[; ;type.h: 23: unsigned char min;
+[; ;type.h: 24: unsigned char sec;
+[; ;type.h: 25: }TIME;
+[; ;type.h: 27: typedef struct _DATE
+[; ;type.h: 28: {
+[; ;type.h: 29: unsigned char day;
+[; ;type.h: 30: unsigned char date;
+[; ;type.h: 31: unsigned char month;
+[; ;type.h: 32: unsigned char year;
+[; ;type.h: 33: }DATE;
+[; ;type.h: 35: typedef struct _NTP_INFO
+[; ;type.h: 36: {
+[; ;type.h: 50: UINT8 test_mode1;
+[; ;type.h: 51: UINT8 test_mode2;
+[; ;type.h: 64: UINT8 time_zone;
+[; ;type.h: 66: } NTP_INFO;
+[; ;type.h: 68: typedef enum _DIGITAL_STATE
+[; ;type.h: 69: {
+[; ;type.h: 70: DIGITAL_NORMAL=0,
+[; ;type.h: 71: DIGITAL_JIAOSHI,
+[; ;type.h: 72: DIGITAL_STOP,
+[; ;type.h: 73: DIGITAL_CHASE_TIME,
+[; ;type.h: 74: DIGITAL_DUISHI,
+[; ;type.h: 75: DIGITAL_CLOSE,
+[; ;type.h: 76: DIGITAL_OPEN,
+[; ;type.h: 77: DIGITAL_TEST,
+[; ;type.h: 78: DIGITAL_RESET
+[; ;type.h: 80: }DIGITAL_STATE;
+[; ;timer1.h: 4: void timer1_init(void);
+[; ;timer1.h: 5: void timer1_isr(void);
+[; ;timer1.h: 9: UINT8 time_add(TIME *t);
+[; ;timer1.h: 10: UINT8 time_dec(TIME *t);
+[; ;timer1.h: 12: void date_dec(DATE *t);
+[; ;timer1.h: 13: void date_add(DATE *t);
+[; ;timer1.h: 14: UINT8 isleap(UINT16 year);
+[; ;usart.h: 40: void putch(UINT8 byte);
+[; ;usart.h: 41: void usart_init(void);
+[; ;usart.h: 42: void usart_isr(void);
+[; ;usart.h: 43: UINT8 id_code(void);
+[; ;usart.h: 44: void cdata_execute(void);
+[; ;sys.h: 4: void sys_init(void);
+[; ;sys.h: 5: void interupt_init(void);
+[; ;sys.h: 6: void interrupt isr(void);
+[; ;sys.h: 7: void system_value_init(void);
+[; ;led.h: 7: void shift_srclk(UINT8 flag);
+[; ;led.h: 8: void latch_rclk(UINT8 flag);
+[; ;led.h: 9: void seg_disp(UINT8 num, UINT8 dp,UINT8 flag);
+[; ;led.h: 10: void lcd_init(void);
+[; ;led.h: 11: void up_time1(UINT8 udata_time[]);
+[; ;led.h: 12: void up_date(UINT8 date[],UINT8 length,UINT8 dian,UINT8 flag);
+[; ;led.h: 14: void up_time2(UINT8 udata_time[]);
+[; ;led.h: 16: UINT8 Compare(TIME first,TIME second);
+[; ;rtc.h: 16: void start_i2c(void);
+[; ;rtc.h: 18: void waitack_i2c(void);
+[; ;rtc.h: 19: void sendack_i2c(void);
+[; ;rtc.h: 20: void sendnotack_i2c(void);
+[; ;rtc.h: 21: void i2c_send(unsigned char send_data);
+[; ;rtc.h: 22: unsigned char i2c_read(void);
+[; ;rtc.h: 23: void writebyte(unsigned char address,unsigned char data);
+[; ;rtc.h: 24: unsigned char readbyte(unsigned char address);
+[; ;DS3231.h: 32: void ds3231_init(void);
+[; ;DS3231.h: 33: unsigned char hex_dec(unsigned char hex16);
+[; ;DS3231.h: 34: UINT8 dec_hex(UINT8 dec16);
+[; ;DS3231.h: 35: void get_time(void);
+[; ;DS3231.h: 36: void settime(void);
+[; ;DS3231.h: 37: void calc_zone(void);
+[; ;DS3231.h: 38: void con_write_eeprom(UINT8 start,UINT8 databyte[],UINT8 len);
+[; ;crc.h: 4: unsigned short int MakeCRC16(unsigned char *buf,unsigned char len);
+[; ;eeprom.h: 4: void write_eeprom(UINT8 addre,UINT8 databyte);
+[; ;eeprom.h: 5: UINT8 read_eeprom(UINT8 addre);
+[; ;timer2.h: 5: void timer2_init(void);
+[; ;timer2.h: 6: void timer2_isr(void);
+[; ;infrare.h: 36: extern unsigned char Ir_order1,Ir_order2;
+[; ;infrare.h: 37: extern unsigned char Ir_Code,Ir_wait;
+[; ;infrare.h: 39: void infrare(void);
+[; ;infrare.h: 40: void ir_operation(void);
+[; ;infrare.h: 42: void ir_init(void);
+"12 F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c
+[v _start_i2c `(v 1 ef ]
+{
+[; ;rtc.c: 11: void start_i2c(void)
+[; ;rtc.c: 12: {
+[e :U _start_i2c ]
+[f ]
+[; ;rtc.c: 13: RC4=1;
+"13
+[e = _RC4 -> -> 1 `i `b ]
+[; ;rtc.c: 14: RC3=1;
+"14
+[e = _RC3 -> -> 1 `i `b ]
+[; ;rtc.c: 15: asm("nop");asm("nop");;
+"15
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 16: RC4=0;
+"16
+[e = _RC4 -> -> 0 `i `b ]
+[; ;rtc.c: 17: asm("nop");asm("nop");;
+"17
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 18: RC3=0;
+"18
+[e = _RC3 -> -> 0 `i `b ]
+[; ;rtc.c: 19: }
+"19
+[e :UE 4 ]
+}
+"24
+[v _waitack_i2c `(v 1 ef ]
+{
+[; ;rtc.c: 23: void waitack_i2c(void)
+[; ;rtc.c: 24: {
+[e :U _waitack_i2c ]
+[f ]
+"25
+[v _errtime `uc 1 a ]
+[; ;rtc.c: 25: UINT8 errtime=200;
+[e = _errtime -> -> 200 `i `uc ]
+[; ;rtc.c: 26: RC3 = 0;
+"26
+[e = _RC3 -> -> 0 `i `b ]
+[; ;rtc.c: 27: RC4 = 1;
+"27
+[e = _RC4 -> -> 1 `i `b ]
+[; ;rtc.c: 28: TRISC4 = 1;
+"28
+[e = _TRISC4 -> -> 1 `i `b ]
+[; ;rtc.c: 29: asm("nop");asm("nop");;
+"29
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 30: RC3 = 1;
+"30
+[e = _RC3 -> -> 1 `i `b ]
+[; ;rtc.c: 31: asm("nop");asm("nop");;
+"31
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 32: while(RC4)
+"32
+[e $U 6  ]
+[e :U 7 ]
+[; ;rtc.c: 33: {
+"33
+{
+[; ;rtc.c: 34: errtime--;
+"34
+[e -- _errtime -> -> 1 `i `uc ]
+[; ;rtc.c: 35: if(errtime == 0)
+"35
+[e $ ! == -> _errtime `i -> 0 `i 9  ]
+[; ;rtc.c: 36: {
+"36
+{
+[; ;rtc.c: 37: RC4=0; RC3=1; asm("nop");asm("nop");; RC4=1;asm("nop");asm("nop");;
+"37
+[e = _RC4 -> -> 0 `i `b ]
+[e = _RC3 -> -> 1 `i `b ]
+[; nop ;#
+[; nop ;#
+[e = _RC4 -> -> 1 `i `b ]
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 38: return;
+"38
+[e $UE 5  ]
+"39
+}
+[e :U 9 ]
+"40
+}
+[e :U 6 ]
+"32
+[e $ _RC4 7  ]
+[e :U 8 ]
+[; ;rtc.c: 39: }
+[; ;rtc.c: 40: }
+[; ;rtc.c: 42: TRISC4 = 0;
+"42
+[e = _TRISC4 -> -> 0 `i `b ]
+[; ;rtc.c: 43: RC3 = 0;
+"43
+[e = _RC3 -> -> 0 `i `b ]
+[; ;rtc.c: 44: }
+"44
+[e :UE 5 ]
+}
+"48
+[v _sendack_i2c `(v 1 ef ]
+{
+[; ;rtc.c: 47: void sendack_i2c(void)
+[; ;rtc.c: 48: {
+[e :U _sendack_i2c ]
+[f ]
+[; ;rtc.c: 49: RC4 =0 ;
+"49
+[e = _RC4 -> -> 0 `i `b ]
+[; ;rtc.c: 50: asm("nop");asm("nop");;
+"50
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 51: RC3 = 1;
+"51
+[e = _RC3 -> -> 1 `i `b ]
+[; ;rtc.c: 52: asm("nop");asm("nop");;
+"52
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 53: RC3 = 0;
+"53
+[e = _RC3 -> -> 0 `i `b ]
+[; ;rtc.c: 54: }
+"54
+[e :UE 10 ]
+}
+"58
+[v _sendnotack_i2c `(v 1 ef ]
+{
+[; ;rtc.c: 57: void sendnotack_i2c(void)
+[; ;rtc.c: 58: {
+[e :U _sendnotack_i2c ]
+[f ]
+[; ;rtc.c: 59: RC4 =1 ;
+"59
+[e = _RC4 -> -> 1 `i `b ]
+[; ;rtc.c: 60: asm("nop");asm("nop");;
+"60
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 61: RC3 = 1;
+"61
+[e = _RC3 -> -> 1 `i `b ]
+[; ;rtc.c: 62: asm("nop");asm("nop");;
+"62
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 63: RC3 = 0;
+"63
+[e = _RC3 -> -> 0 `i `b ]
+[; ;rtc.c: 64: }
+"64
+[e :UE 11 ]
+}
+"68
+[v _i2c_send `(v 1 ef1`uc ]
+{
+[; ;rtc.c: 67: void i2c_send(UINT8 send_data)
+[; ;rtc.c: 68: {
+[e :U _i2c_send ]
+[v _send_data `uc 1 r1 ]
+[f ]
+"69
+[v _count `uc 1 a ]
+[; ;rtc.c: 69: UINT8 count;
+[; ;rtc.c: 70: for(count=0;count<8;count++)
+"70
+{
+[e = _count -> -> 0 `i `uc ]
+[e $ < -> _count `i -> 8 `i 13  ]
+[e $U 14  ]
+"71
+[e :U 13 ]
+[; ;rtc.c: 71: {
+{
+[; ;rtc.c: 72: RC3 = 0;
+"72
+[e = _RC3 -> -> 0 `i `b ]
+[; ;rtc.c: 73: if((send_data&0x80)==0x80)
+"73
+[e $ ! == & -> _send_data `i -> 128 `i -> 128 `i 16  ]
+[; ;rtc.c: 74: {
+"74
+{
+[; ;rtc.c: 75: RC4=1;
+"75
+[e = _RC4 -> -> 1 `i `b ]
+"76
+}
+[; ;rtc.c: 76: }
+[e $U 17  ]
+"77
+[e :U 16 ]
+[; ;rtc.c: 77: else
+[; ;rtc.c: 78: {
+"78
+{
+[; ;rtc.c: 79: RC4=0;
+"79
+[e = _RC4 -> -> 0 `i `b ]
+"80
+}
+[e :U 17 ]
+[; ;rtc.c: 80: }
+[; ;rtc.c: 81: send_data<<=1;
+"81
+[e =<< _send_data -> 1 `i ]
+[; ;rtc.c: 82: asm("nop");asm("nop");;
+"82
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 83: RC3 = 1;
+"83
+[e = _RC3 -> -> 1 `i `b ]
+[; ;rtc.c: 84: asm("nop");asm("nop");;
+"84
+[; nop ;#
+[; nop ;#
+"85
+}
+"70
+[e ++ _count -> -> 1 `i `uc ]
+[e $ < -> _count `i -> 8 `i 13  ]
+[e :U 14 ]
+"85
+}
+[; ;rtc.c: 85: }
+[; ;rtc.c: 86: RC3 = 0;
+"86
+[e = _RC3 -> -> 0 `i `b ]
+[; ;rtc.c: 87: }
+"87
+[e :UE 12 ]
+}
+"91
+[v _i2c_read `(uc 1 ef ]
+{
+[; ;rtc.c: 90: UINT8 i2c_read(void)
+[; ;rtc.c: 91: {
+[e :U _i2c_read ]
+[f ]
+"92
+[v _count `uc 1 a ]
+"93
+[v _dat `uc 1 a ]
+[; ;rtc.c: 92: UINT8 count;
+[; ;rtc.c: 93: UINT8 dat = 0xff;
+[e = _dat -> -> 255 `i `uc ]
+[; ;rtc.c: 94: RC4=1;
+"94
+[e = _RC4 -> -> 1 `i `b ]
+[; ;rtc.c: 95: RC4=1;
+"95
+[e = _RC4 -> -> 1 `i `b ]
+[; ;rtc.c: 96: TRISC4 = 1;
+"96
+[e = _TRISC4 -> -> 1 `i `b ]
+[; ;rtc.c: 97: for(count=0;count<8;count++)
+"97
+{
+[e = _count -> -> 0 `i `uc ]
+[e $ < -> _count `i -> 8 `i 19  ]
+[e $U 20  ]
+"98
+[e :U 19 ]
+[; ;rtc.c: 98: {
+{
+[; ;rtc.c: 99: dat <<= 1;
+"99
+[e =<< _dat -> 1 `i ]
+[; ;rtc.c: 100: RC3 = 0;
+"100
+[e = _RC3 -> -> 0 `i `b ]
+[; ;rtc.c: 101: asm("nop");asm("nop");;
+"101
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 102: RC3 = 1;
+"102
+[e = _RC3 -> -> 1 `i `b ]
+[; ;rtc.c: 103: asm("nop");asm("nop");;
+"103
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 104: if(RC4)
+"104
+[e $ ! _RC4 22  ]
+[; ;rtc.c: 105: {
+"105
+{
+[; ;rtc.c: 106: dat|=0x01;
+"106
+[e =| _dat -> -> 1 `i `uc ]
+"107
+}
+[; ;rtc.c: 107: }
+[e $U 23  ]
+"108
+[e :U 22 ]
+[; ;rtc.c: 108: else
+[; ;rtc.c: 109: {
+"109
+{
+[; ;rtc.c: 110: dat&=0xFE;
+"110
+[e =& _dat -> -> 254 `i `uc ]
+"111
+}
+[e :U 23 ]
+"112
+}
+"97
+[e ++ _count -> -> 1 `i `uc ]
+[e $ < -> _count `i -> 8 `i 19  ]
+[e :U 20 ]
+"112
+}
+[; ;rtc.c: 111: }
+[; ;rtc.c: 112: }
+[; ;rtc.c: 113: RC3 = 0;
+"113
+[e = _RC3 -> -> 0 `i `b ]
+[; ;rtc.c: 114: TRISC4 = 0;
+"114
+[e = _TRISC4 -> -> 0 `i `b ]
+[; ;rtc.c: 115: return(dat);
+"115
+[e ) _dat ]
+[e $UE 18  ]
+[; ;rtc.c: 116: }
+"116
+[e :UE 18 ]
+}
+"120
+[v _writebyte `(v 1 ef2`uc`uc ]
+{
+[; ;rtc.c: 119: void writebyte(UINT8 address,UINT8 data)
+[; ;rtc.c: 120: {
+[e :U _writebyte ]
+[v _address `uc 1 r1 ]
+[v _data `uc 1 r2 ]
+[f ]
+[; ;rtc.c: 121: start_i2c();
+"121
+[e ( _start_i2c ..  ]
+[; ;rtc.c: 122: i2c_send(0xD0);
+"122
+[e ( _i2c_send (1 -> -> 208 `i `uc ]
+[; ;rtc.c: 123: waitack_i2c();
+"123
+[e ( _waitack_i2c ..  ]
+[; ;rtc.c: 124: i2c_send(address);
+"124
+[e ( _i2c_send (1 _address ]
+[; ;rtc.c: 125: waitack_i2c();
+"125
+[e ( _waitack_i2c ..  ]
+[; ;rtc.c: 126: i2c_send(data);
+"126
+[e ( _i2c_send (1 _data ]
+[; ;rtc.c: 127: waitack_i2c();
+"127
+[e ( _waitack_i2c ..  ]
+[; ;rtc.c: 128: RC4=0; RC3=1; asm("nop");asm("nop");; RC4=1;asm("nop");asm("nop");;
+"128
+[e = _RC4 -> -> 0 `i `b ]
+[e = _RC3 -> -> 1 `i `b ]
+[; nop ;#
+[; nop ;#
+[e = _RC4 -> -> 1 `i `b ]
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 129: }
+"129
+[e :UE 24 ]
+}
+"133
+[v _readbyte `(uc 1 ef1`uc ]
+{
+[; ;rtc.c: 132: UINT8 readbyte(UINT8 address)
+[; ;rtc.c: 133: {
+[e :U _readbyte ]
+[v _address `uc 1 r1 ]
+[f ]
+"134
+[v _recv_data `uc 1 a ]
+[; ;rtc.c: 134: UINT8 recv_data=0xff;
+[e = _recv_data -> -> 255 `i `uc ]
+[; ;rtc.c: 136: start_i2c();
+"136
+[e ( _start_i2c ..  ]
+[; ;rtc.c: 137: i2c_send(0xD0);
+"137
+[e ( _i2c_send (1 -> -> 208 `i `uc ]
+[; ;rtc.c: 138: waitack_i2c();
+"138
+[e ( _waitack_i2c ..  ]
+[; ;rtc.c: 140: i2c_send(address);
+"140
+[e ( _i2c_send (1 _address ]
+[; ;rtc.c: 141: waitack_i2c();
+"141
+[e ( _waitack_i2c ..  ]
+[; ;rtc.c: 143: start_i2c();
+"143
+[e ( _start_i2c ..  ]
+[; ;rtc.c: 144: i2c_send(0xD0+0x01);
+"144
+[e ( _i2c_send (1 -> + -> 208 `i -> 1 `i `uc ]
+[; ;rtc.c: 145: waitack_i2c();
+"145
+[e ( _waitack_i2c ..  ]
+[; ;rtc.c: 147: recv_data=i2c_read();
+"147
+[e = _recv_data ( _i2c_read ..  ]
+[; ;rtc.c: 148: sendnotack_i2c();
+"148
+[e ( _sendnotack_i2c ..  ]
+[; ;rtc.c: 150: RC4=0; RC3=1; asm("nop");asm("nop");; RC4=1;asm("nop");asm("nop");;
+"150
+[e = _RC4 -> -> 0 `i `b ]
+[e = _RC3 -> -> 1 `i `b ]
+[; nop ;#
+[; nop ;#
+[e = _RC4 -> -> 1 `i `b ]
+[; nop ;#
+[; nop ;#
+[; ;rtc.c: 151: return(recv_data);
+"151
+[e ) _recv_data ]
+[e $UE 25  ]
+[; ;rtc.c: 152: }
+"152
+[e :UE 25 ]
+}

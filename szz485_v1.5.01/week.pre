@@ -1,0 +1,100 @@
+
+# 1 "E:\cjbc_zmz\subClock\szz485_v1.5.01\source\week.c"
+
+# 12 "C:\Program Files\HI-TECH Software\PICC\9.80\include\stdio.h"
+typedef int ptrdiff_t;
+typedef unsigned size_t;
+typedef unsigned short wchar_t;
+
+# 31 "C:\Program Files\HI-TECH Software\PICC\9.80\include\stdarg.h"
+typedef void * va_list[1];
+
+#pragma inline(__va_start)
+extern void * __va_start(void);
+
+#pragma inline(__va_arg)
+extern void * __va_arg(void *, ...);
+
+# 27 "C:\Program Files\HI-TECH Software\PICC\9.80\include\stdio.h"
+extern int errno;
+
+# 58
+struct __prbuf
+{
+char * ptr;
+void (* func)(char);
+};
+
+# 17 "C:\Program Files\HI-TECH Software\PICC\9.80\include\conio.h"
+extern int errno;
+
+
+extern void init_uart(void);
+
+extern char getch(void);
+extern char getche(void);
+extern void putch(char);
+extern void ungetch(char);
+
+extern bit kbhit(void);
+
+# 31
+extern char * cgets(char *);
+extern void cputs(const char *);
+
+# 103 "C:\Program Files\HI-TECH Software\PICC\9.80\include\stdio.h"
+extern int cprintf(char *, ...);
+#pragma printf_check(cprintf)
+
+
+
+extern int _doprnt(struct __prbuf *, const register char *, register va_list);
+
+# 195
+extern char * gets(char *);
+extern int puts(const char *);
+extern int scanf(const char *, ...);
+extern int sscanf(const char *, const char *, ...);
+extern int vprintf(const char *, va_list);
+extern int vsprintf(char *, const char *, va_list);
+extern int vscanf(const char *, va_list ap);
+extern int vsscanf(const char *, const char *, va_list);
+
+#pragma printf_check(printf) const
+#pragma printf_check(sprintf) const
+extern int sprintf(char *, const char *, ...);
+extern int printf(const char *, ...);
+
+# 5 "E:\cjbc_zmz\subClock\szz485_v1.5.01\source\week.c"
+unsigned char WeekTab[] = {
+(3 << 5) + 31,
+(6 << 5) + 29,
+(0 << 5) + 31,
+(3 << 5) + 30,
+(5 << 5) + 31,
+(1 << 5) + 30,
+(3 << 5) + 31,
+(6 << 5) + 31,
+(2 << 5) + 30,
+(4 << 5) + 31,
+(0 << 5) + 30,
+(2 << 5) + 31
+};
+
+# 25
+unsigned char WeekDay20(unsigned char y, unsigned char m, unsigned char d)
+{
+unsigned char week, day;
+
+day = WeekTab[m - 1];
+week = day >> 5;
+day &= 0x1f;
+if ((m < 3) && (y & 0x03)){
+if (m == 2) day--;
+week++;
+}
+y = y + (y >> 2);
+week = (week + y + d + 2) % 7;
+
+return week;
+}

@@ -1,0 +1,41 @@
+
+# 1 "F:\cjbc_zmz\subclock\szz485_v1.5.01\source\CRC.c"
+
+
+
+unsigned short int calccrc(unsigned char crcbuf,unsigned short int crc)
+{
+unsigned char i,chk;
+crc=crc ^ crcbuf;
+for(i=0;i<8;i++)
+{
+chk=crc&1;
+crc=crc>>1;
+crc=crc&0x7fff;
+if (chk==1)
+{
+crc=crc^0xa001;
+}
+crc=crc&0xffff;
+}
+
+return crc;
+}
+
+unsigned short int MakeCRC16(unsigned char *buf,unsigned char len)
+{
+unsigned char hi,lo;
+unsigned short int i;
+unsigned short int crc;
+crc=0xFFFF;
+for (i=0;i<len;i++)
+{
+crc=calccrc(*buf,crc);
+buf++;
+}
+hi=crc%256;
+lo=crc/256;
+crc=((unsigned short int)hi<<8)|lo;
+return crc;
+}
+

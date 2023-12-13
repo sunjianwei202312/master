@@ -1,0 +1,1177 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+AA02E48_DISPLAY_END_H1::(AA02E48_DISPLAY_ON_OFF1+5)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	13;"	d	line:13
+AA02E48_DISPLAY_END_H2::(AA02E48_DISPLAY_ON_OFF2+5)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	22;"	d	line:22
+AA02E48_DISPLAY_END_M1::(AA02E48_DISPLAY_ON_OFF1+6)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	14;"	d	line:14
+AA02E48_DISPLAY_END_M2::(AA02E48_DISPLAY_ON_OFF2+6)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	23;"	d	line:23
+AA02E48_DISPLAY_END_S1::(AA02E48_DISPLAY_ON_OFF1+7)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	15;"	d	line:15
+AA02E48_DISPLAY_END_S2::(AA02E48_DISPLAY_ON_OFF2+7)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	24;"	d	line:24
+AA02E48_DISPLAY_GRADE1::(AA02E48_DISPLAY_ON_OFF1+1)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	9;"	d	line:9
+AA02E48_DISPLAY_GRADE2::(AA02E48_DISPLAY_ON_OFF2+1)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	18;"	d	line:18
+AA02E48_DISPLAY_ON_OFF1::AA02E48_TIME_ZONE+1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	8;"	d	line:8
+AA02E48_DISPLAY_ON_OFF2::AA02E48_DISPLAY_END_S1+1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	17;"	d	line:17
+AA02E48_DISPLAY_START_H1::(AA02E48_DISPLAY_ON_OFF1+2)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	10;"	d	line:10
+AA02E48_DISPLAY_START_H2::(AA02E48_DISPLAY_ON_OFF2+2)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	19;"	d	line:19
+AA02E48_DISPLAY_START_M1::(AA02E48_DISPLAY_ON_OFF1+3)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	11;"	d	line:11
+AA02E48_DISPLAY_START_M2::(AA02E48_DISPLAY_ON_OFF2+3)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	20;"	d	line:20
+AA02E48_DISPLAY_START_S1::(AA02E48_DISPLAY_ON_OFF1+4)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	12;"	d	line:12
+AA02E48_DISPLAY_START_S2::(AA02E48_DISPLAY_ON_OFF2+4)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	21;"	d	line:21
+AA02E48_TIME_ZONE::0x00	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	7;"	d	line:7
+Address_H::0xED	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	6;"	d	line:6
+Address_L::0x10	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	5;"	d	line:5
+BAUD::9600	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	4;"	d	line:4
+BEE::RB3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	11;"	d	line:11
+BOOL	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	13;"	t	line:13
+BOOL_TYPE	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	13;"	g	line:13
+BORDIS::0x3CFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	576;"	d	line:576
+BOREN::0x3FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	579;"	d	line:579
+BORV21::0x3EFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	594;"	d	line:594
+BORV40::0x3FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	595;"	d	line:595
+BORXSLP::0x3EFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	578;"	d	line:578
+BROADCAST_ADDRESS::0xFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	22;"	d	line:22
+BUTTON1::RB6	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	188;"	d	line:188
+BUTTON1_DIR::TRISB6	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	178;"	d	line:178
+BUTTON2::RB7	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	189;"	d	line:189
+BUTTON2_DIR::TRISB7	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	179;"	d	line:179
+BUTTON3::RB5	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	190;"	d	line:190
+BUTTON3_DIR::TRISB5	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	180;"	d	line:180
+BUTTON4::RB4	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	191;"	d	line:191
+BUTTON4_DIR::TRISB4	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	181;"	d	line:181
+BUTTON5::RB2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	192;"	d	line:192
+BUTTON5_DIR::TRISB2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	182;"	d	line:182
+BUTTON6::RB1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	193;"	d	line:193
+BUTTON6_DIR::TRISB1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	183;"	d	line:183
+BUTTON7::RA0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	194;"	d	line:194
+BUTTON7_DIR::TRISA0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	184;"	d	line:184
+BUTTON8::RA1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	195;"	d	line:195
+BUTTON8_DIR::TRISA1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	185;"	d	line:185
+CLRWDT::asm("clrwdt")	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	258;"	d	line:258
+CMD_GET_SYS_STATE::0x0011	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	26;"	d	line:26
+CONFIG_ADDR2::0x2008	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	592;"	d	line:592
+CONFIG_ADDR::0x2007	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	549;"	d	line:549
+CP::0x3FBF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	570;"	d	line:570
+CPD::0x3F7F	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	574;"	d	line:574
+CommandParser	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	61;"	p	line:61	signature:(void)
+Compare	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	16;"	p	line:16	signature:(TIME first,TIME second)
+Compare	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	1234;"	f	line:1234	signature:(TIME first,TIME second)
+D32	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	11;"	t	line:11
+DATA_CMDH_POS::0x00	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	48;"	d	line:48
+DATA_CMDL_POS::0x01	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	49;"	d	line:49
+DATA_DATA_POS::0x02	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	50;"	d	line:50
+DATA_HEAD1::0xD3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	129;"	d	line:129
+DATA_TAIL1::0xD8	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	130;"	d	line:130
+DATE	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	33;"	t	line:33
+DEBUGDIS::0x3FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	591;"	d	line:591
+DEBUGEN::0x1FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	590;"	d	line:590
+DEFAULT_DISPLAY_END_H::0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	34;"	d	line:34
+DEFAULT_DISPLAY_END_M::0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	35;"	d	line:35
+DEFAULT_DISPLAY_END_S::0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	36;"	d	line:36
+DEFAULT_DISPLAY_GRADE::10	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	30;"	d	line:30
+DEFAULT_DISPLAY_ON_OFF::0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	29;"	d	line:29
+DEFAULT_DISPLAY_START_H::0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	31;"	d	line:31
+DEFAULT_DISPLAY_START_M::0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	32;"	d	line:32
+DEFAULT_DISPLAY_START_S::0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	33;"	d	line:33
+DEFAULT_TIME_ZONE::0x88	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	28;"	d	line:28
+DH11_ReadTempAndHumi	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	64;"	p	line:64	signature:(void)
+DH11_ReadTempAndHumi	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	78;"	f	line:78	signature:(void)
+DHT11_HUMR_PIN::TRISA3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	53;"	d	line:53
+DHT11_HUMR_VALUE::RA3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	54;"	d	line:54
+DHT11_ReadByte	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	35;"	f	line:35	signature:(void)
+DHT11_State	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	25;"	v	line:25
+DHT11_Store	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	29;"	v	line:29
+DIGITAL_CHASE_TIME	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	73;"	e	line:73	enum:_DIGITAL_STATE
+DIGITAL_CLOCK::0x00	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	106;"	d	line:106
+DIGITAL_CLOSE	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	75;"	e	line:75	enum:_DIGITAL_STATE
+DIGITAL_DUISHI	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	74;"	e	line:74	enum:_DIGITAL_STATE
+DIGITAL_JIAOSHI	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	71;"	e	line:71	enum:_DIGITAL_STATE
+DIGITAL_NORMAL	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	70;"	e	line:70	enum:_DIGITAL_STATE
+DIGITAL_OPEN	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	76;"	e	line:76	enum:_DIGITAL_STATE
+DIGITAL_RESET	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	78;"	e	line:78	enum:_DIGITAL_STATE
+DIGITAL_STATE	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	80;"	t	line:80
+DIGITAL_STOP	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	72;"	e	line:72	enum:_DIGITAL_STATE
+DIGITAL_TEST	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	77;"	e	line:77	enum:_DIGITAL_STATE
+DISPLAY_DIGITAL_LENGTH1::4	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	38;"	d	line:38
+DISPLAY_DIGITAL_LENGTH1::6	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	44;"	d	line:44
+DISPLAY_DIGITAL_LENGTH1::6	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	50;"	d	line:50
+DISPLAY_DIGITAL_LENGTH1::8	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	32;"	d	line:32
+DISPLAY_DIGITAL_LENGTH2::1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	106;"	d	line:106
+DISPLAY_DIGITAL_LENGTH2::4	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	79;"	d	line:79
+DISPLAY_DIGITAL_LENGTH2::5	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	101;"	d	line:101
+DISPLAY_DIGITAL_LENGTH2::6	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	85;"	d	line:85
+DISPLAY_DIGITAL_LENGTH2::7	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	96;"	d	line:96
+DISPLAY_DIGITAL_LENGTH2::8	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	73;"	d	line:73
+DISPLAY_DIGITAL_LENGTH2::9	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	91;"	d	line:91
+DISP_STATE_NORMAL	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\infrare.c	15;"	e	line:15	file:
+DISP_STATE_NORMAL	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	45;"	e	line:45	file:
+DISP_STATE_TIME	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\infrare.c	16;"	e	line:16	file:
+DISP_STATE_TIME	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	46;"	e	line:46	file:
+DIVIDER::((int)(FOSC/(16UL*BAUD)-1))	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	8;"	d	line:8
+DJS_MODE	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	234;"	e	line:234	file:
+DJS_MODE	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	718;"	e	line:718	file:
+DS3231_A1_DATE::0x0A	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	16;"	d	line:16
+DS3231_A1_HOUR::0x09	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	15;"	d	line:15
+DS3231_A1_MINUTE::0x08	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	14;"	d	line:14
+DS3231_A1_SECOND::0x07	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	13;"	d	line:13
+DS3231_A2_DATE::0x0D	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	19;"	d	line:19
+DS3231_A2_HOUR::0x0C	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	18;"	d	line:18
+DS3231_A2_MINUTE::0x0B	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	17;"	d	line:17
+DS3231_ADDR::0xD0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	5;"	d	line:5
+DS3231_CONTROL::0x0E	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	20;"	d	line:20
+DS3231_DATE::0x04	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	10;"	d	line:10
+DS3231_DAY::0x03	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	9;"	d	line:9
+DS3231_HOUR::0x02	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	8;"	d	line:8
+DS3231_LSB::0x0E	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	24;"	d	line:24
+DS3231_MINUTE::0x01	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	7;"	d	line:7
+DS3231_MONTH::0x05	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	11;"	d	line:11
+DS3231_MSB::0x11	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	23;"	d	line:23
+DS3231_OFFSET::0x10	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	22;"	d	line:22
+DS3231_SECOND::0x00	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	6;"	d	line:6
+DS3231_STATUS::0x0F	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	21;"	d	line:21
+DS3231_YEAR::0x06	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	12;"	d	line:12
+DUNPROTECT::0x3FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	573;"	d	line:573
+EC::0x3FFB	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	555;"	d	line:555
+EEADRL::EEADR	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	286;"	d	line:286
+EQUAL::0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	18;"	d	line:18
+EXTCLK::0x3FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	551;"	d	line:551
+EXTIO::0x3FFE	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	552;"	d	line:552
+F32	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	10;"	t	line:10
+FALSE	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	13;"	e	line:13	enum:BOOL_TYPE
+FCMDIS::0x37FF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	585;"	d	line:585
+FCMEN::0x3FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	584;"	d	line:584
+FLAG_DATE_ADD::1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	28;"	d	line:28
+FLAG_DATE_DEC::2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	29;"	d	line:29
+FLAG_DATE_NONE::0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	27;"	d	line:27
+FLASH_ERASE::(addr)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	368;"	d	line:368
+FLASH_READ::(addr)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	317;"	d	line:317
+FLASH_READ::(addr)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	325;"	d	line:325
+FLASH_WRITE::(addr,value)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	354;"	d	line:354
+FOSC::8000000L	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	5;"	d	line:5
+FUN_CLOCK_CHECK::0x0907	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	57;"	d	line:57
+FUN_CLOCK_CHECK_REP::0x0908	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	58;"	d	line:58
+FUN_CLOCK_DEFAULT::0x0919	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	75;"	d	line:75
+FUN_CLOCK_DEFAULT_REP::0x091A	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	76;"	d	line:76
+FUN_CLOCK_DISPLAY::0x091B	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	77;"	d	line:77
+FUN_CLOCK_DISPLAY_REP::0x091C	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	78;"	d	line:78
+FUN_CLOCK_DJS::0x091F	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	81;"	d	line:81
+FUN_CLOCK_DJS_REP::0x0920	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	82;"	d	line:82
+FUN_CLOCK_JIAOSHI::0x0900	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	50;"	d	line:50
+FUN_CLOCK_LIGHTING::0x0905	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	55;"	d	line:55
+FUN_CLOCK_LIGHTING_REP::0x0906	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	56;"	d	line:56
+FUN_CLOCK_LOGIN::0x0915	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	71;"	d	line:71
+FUN_CLOCK_LOGIN_REP::0x0916	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	72;"	d	line:72
+FUN_CLOCK_MZCS::0x0913	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	69;"	d	line:69
+FUN_CLOCK_MZZX::0x0921	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	83;"	d	line:83
+FUN_CLOCK_MZZX_REP::0x0922	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	84;"	d	line:84
+FUN_CLOCK_OC::0x090D	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	63;"	d	line:63
+FUN_CLOCK_OC_REP::0x090E	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	64;"	d	line:64
+FUN_CLOCK_ONE_KEY::0x0917	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	73;"	d	line:73
+FUN_CLOCK_ONE_KEY_REP::0x0918	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	74;"	d	line:74
+FUN_CLOCK_PAR::0x0911	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	67;"	d	line:67
+FUN_CLOCK_PAR_REP::0x0912	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	68;"	d	line:68
+FUN_CLOCK_QUERY::0x0901	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	51;"	d	line:51
+FUN_CLOCK_QUERY_REP::0x0902	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	52;"	d	line:52
+FUN_CLOCK_RESET::0x0909	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	59;"	d	line:59
+FUN_CLOCK_RESET_REP::0x090A	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	60;"	d	line:60
+FUN_CLOCK_STATE::0x0903	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	53;"	d	line:53
+FUN_CLOCK_STATE_REP::0x0904	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	54;"	d	line:54
+FUN_CLOCK_TEST::0x091D	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	79;"	d	line:79
+FUN_CLOCK_TEST_REP::0x091E	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	80;"	d	line:80
+FUN_CLOCK_VERSION::0x0923	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	85;"	d	line:85
+FUN_CLOCK_VERSION_REP::0x0924	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	86;"	d	line:86
+FUN_CLOCK_ZZH::0x090B	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	61;"	d	line:61
+FUN_CLOCK_ZZH_REP::0x090C	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	62;"	d	line:62
+FUN_CLOCK_ZZSQ::0x090F	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	65;"	d	line:65
+FUN_CLOCK_ZZSQ_REP::0x0910	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	66;"	d	line:66
+GREATER::1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	19;"	d	line:19
+HIGH_SPEED::1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	9;"	d	line:9
+HS::0x3FFA	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	556;"	d	line:556
+I2CTIME::5	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	6;"	d	line:6	file:
+IC_ADDRESS::0xD0	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	4;"	d	line:4	file:
+IESODIS::0x3BFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	582;"	d	line:582
+IESOEN::0x3FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	581;"	d	line:581
+INT16	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	7;"	t	line:7
+INT32	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	9;"	t	line:9
+INT8	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	5;"	t	line:5
+INTCLK::0x3FFD	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	553;"	d	line:553
+INTIO::0x3FFC	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	554;"	d	line:554
+IR_CANCEL::0x05	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	28;"	d	line:28
+IR_CONFIRM::0x06	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	29;"	d	line:29
+IR_FUNCTION1::0x0a	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	24;"	d	line:24
+IR_FUNCTION2::0x01	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	25;"	d	line:25
+IR_IOCB::IOCB3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	9;"	d	line:9
+IR_LEFT::0x45	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	26;"	d	line:26
+IR_NUM0::0x09	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	22;"	d	line:22
+IR_NUM1::0x1a	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	13;"	d	line:13
+IR_NUM2::0x5B	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	14;"	d	line:14
+IR_NUM3::0x5E	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	15;"	d	line:15
+IR_NUM4::0x5A	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	16;"	d	line:16
+IR_NUM5::0x1E	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	17;"	d	line:17
+IR_NUM6::0x59	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	18;"	d	line:18
+IR_NUM7::0x02	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	19;"	d	line:19
+IR_NUM8::0x5D	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	20;"	d	line:20
+IR_NUM9::0x07	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	21;"	d	line:21
+IR_PIN::RB3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	8;"	d	line:8
+IR_PIN_DIR::TRISB3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	7;"	d	line:7
+IR_RIGHT::0x03	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	27;"	d	line:27
+Ir_Buf	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\infrare.c	30;"	l	line:30	file:
+Ir_Code	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\infrare.c	5;"	v	line:5
+Ir_i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\infrare.c	29;"	l	line:29	file:
+Ir_j	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\infrare.c	29;"	l	line:29	file:
+Ir_wait	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\infrare.c	5;"	v	line:5
+LCD_EN1::RC2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	143;"	d	line:143
+LCD_EN2::RC1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	145;"	d	line:145
+LCD_EN_DIR1::TRISC2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	142;"	d	line:142
+LCD_EN_DIR2::TRISC1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	144;"	d	line:144
+LCD_RCLK1::RA5	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	133;"	d	line:133
+LCD_RCLK2::RA4	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	136;"	d	line:136
+LCD_RCLK_DIR1::TRISA5	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	125;"	d	line:125
+LCD_RCLK_DIR2::TRISA4	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	128;"	d	line:128
+LCD_SER1::RC0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	131;"	d	line:131
+LCD_SER2::RA2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	134;"	d	line:134
+LCD_SER_DIR1::TRISC0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	123;"	d	line:123
+LCD_SER_DIR2::TRISA2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	126;"	d	line:126
+LCD_SRCLK1::RC5	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	132;"	d	line:132
+LCD_SRCLK2::RA3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	135;"	d	line:135
+LCD_SRCLK_DIR1::TRISC5	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	124;"	d	line:124
+LCD_SRCLK_DIR2::TRISA3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	127;"	d	line:127
+LENGTH_CHECK::12	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	158;"	d	line:158
+LENGTH_CLOCK_JIAOSHI::16	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	154;"	d	line:154
+LENGTH_DEFAULT::8	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	168;"	d	line:168
+LENGTH_DISPLAY::17	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	169;"	d	line:169
+LENGTH_DJS::16	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	171;"	d	line:171
+LENGTH_LIGHTING::17	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	157;"	d	line:157
+LENGTH_LOGIN::29	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	165;"	d	line:165
+LENGTH_LOGIN_REP::28	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	166;"	d	line:166
+LENGTH_MZCS::28	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	164;"	d	line:164
+LENGTH_OC::9	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	161;"	d	line:161
+LENGTH_ONE_KEY::8	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	167;"	d	line:167
+LENGTH_PAR::29	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	163;"	d	line:163
+LENGTH_QUERY::8	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	155;"	d	line:155
+LENGTH_RESET::8	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	159;"	d	line:159
+LENGTH_STATE::10	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	156;"	d	line:156
+LENGTH_TEST::10	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	170;"	d	line:170
+LENGTH_ZZH::9	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	160;"	d	line:160
+LENGTH_ZZSQ::9	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	162;"	d	line:162
+LESS::2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	20;"	d	line:20
+LETTER_E::0x45	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	48;"	d	line:48
+LIGHTING_DEFAULT_DUTY::1024	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys.h	23;"	d	line:23
+LIGHTING_DIR::TRISC2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys.h	19;"	d	line:19
+LINGHTING_ON	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	59;"	e	line:59	file:
+LINGHTING_ON	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	66;"	e	line:66	file:
+LINGHTING_ON	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	73;"	e	line:73	file:
+LINGHTING_ON	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	50;"	e	line:50	file:
+LINGHTING_ON	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	57;"	e	line:57	file:
+LINGHTING_ON	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	64;"	e	line:64	file:
+LINGHTING_ON_COV	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	60;"	e	line:60	file:
+LINGHTING_ON_COV	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	67;"	e	line:67	file:
+LINGHTING_ON_COV	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	74;"	e	line:74	file:
+LINGHTING_ON_COV	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	51;"	e	line:51	file:
+LINGHTING_ON_COV	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	58;"	e	line:58	file:
+LINGHTING_ON_COV	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	65;"	e	line:65	file:
+LINGHTING_START	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	58;"	e	line:58	file:
+LINGHTING_START	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	65;"	e	line:65	file:
+LINGHTING_START	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	72;"	e	line:72	file:
+LINGHTING_START	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	49;"	e	line:49	file:
+LINGHTING_START	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	56;"	e	line:56	file:
+LINGHTING_START	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	63;"	e	line:63	file:
+LP::0x3FF8	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	558;"	d	line:558
+LVPDIS::0x2FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	587;"	d	line:587
+LVPEN::0x3FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	588;"	d	line:588
+Leader	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\infrare.c	29;"	l	line:29	file:
+MAIN_CLOCK_H::TMR1H	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	18;"	d	line:18
+MAIN_CLOCK_L::TMR1L	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	17;"	d	line:17
+MCLRDIS::0x3FDF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	567;"	d	line:567
+MCLREN::0x3FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	566;"	d	line:566
+MOTOR_CLOCK::0x01	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	105;"	d	line:105
+MOTOR_LIGHTING_NO::0x00	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	107;"	d	line:107
+MOTOR_LIGHTING_OFF::0x00	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	109;"	d	line:109
+MOTOR_LIGHTING_ON::0x04	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	110;"	d	line:110
+MOTOR_LIGHTING_YES::0x02	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	108;"	d	line:108
+MOTOR_ONE_FACE::0x08	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	111;"	d	line:111
+MOTOR_TWO_FACE::0x10	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	112;"	d	line:112
+MZCS_MASTER::0x01	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	126;"	d	line:126
+MZCS_SLAVE::0x02	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	127;"	d	line:127
+MakeCRC16	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\crc.h	4;"	p	line:4	signature:(unsigned char *buf,unsigned char len)
+MakeCRC16	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\CRC.c	23;"	f	line:23	signature:(unsigned char *buf,unsigned char len)
+NINE::0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	6;"	d	line:6
+NINE_BITS::0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	14;"	d	line:14
+NINE_BITS::0x40	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	12;"	d	line:12
+NOP::asm("nop")	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	260;"	d	line:260
+NTP_INFO	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	66;"	t	line:66
+NUMBER::100	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	20;"	d	line:20	file:
+Nop::NOP	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\include.h	29;"	d	line:29
+ONE_DP	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	49;"	v	line:49
+ONE_DP	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	51;"	v	line:51
+ONE_DP	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	53;"	v	line:53
+ONE_DP	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	55;"	v	line:55
+ONE_USE_1G_2G_3G_4G_5G_6G_HMS	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	27;"	d	line:27
+ONE_USE_BIG	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	40;"	d	line:40
+ONE_USE_BIG	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	46;"	d	line:46
+ONE_USE_HM	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	39;"	d	line:39
+ONE_USE_HM	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	51;"	d	line:51
+ONE_USE_HMS	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	33;"	d	line:33
+ONE_USE_HMS	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	45;"	d	line:45
+ONE_USE_SMALL	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	34;"	d	line:34
+ONE_USE_YT_BIG	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	52;"	d	line:52
+PROGRAM_VERSION::0x0009	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	88;"	d	line:88
+PROTECT::CP	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	571;"	d	line:571
+PWRTDIS::0x3FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	563;"	d	line:563
+PWRTEN::0x3FEF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	564;"	d	line:564
+REC_ENABLE::CREN	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	203;"	d	line:203
+REC_ERROR::OERR	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	202;"	d	line:202
+REPLY_CHECK_POSITION::0x06	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	99;"	d	line:99
+REPLY_FACE_POSITION::0x05	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	96;"	d	line:96
+REPLY_FUNC_POSITION::0x02	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	91;"	d	line:91
+REPLY_ID_POSITION::0x04	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	103;"	d	line:103
+REPLY_ID_POSITION::0x04	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	92;"	d	line:92
+REPLY_JIAOSHI_POSITION::0x04	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	102;"	d	line:102
+REPLY_LEN_POSITION::0x01	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	90;"	d	line:90
+REPLY_LOGIN_MAC_POSITION::0x04	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	95;"	d	line:95
+REPLY_MAC_POSITION::0x04	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	93;"	d	line:93
+REPLY_MZCS_IP_POSITION::0x0B	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	100;"	d	line:100
+REPLY_MZCS_MS_POSITION::0x04	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	94;"	d	line:94
+REPLY_STATE_POSITION::0x06	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	98;"	d	line:98
+REPLY_ZZSQ_POSITION::0x05	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	97;"	d	line:97
+RESET::asm("reset");	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	262;"	d	line:262
+RXD_BUFFER_LEN::17	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	176;"	d	line:176
+RX_INTERRUPT::RCIE	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	204;"	d	line:204
+RX_PIN::TRISB2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	24;"	d	line:24
+RX_PIN::TRISC7	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	27;"	d	line:27
+Reset::TMR1ON=0;GIE=0;PEIE=0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	46;"	d	line:46
+SCL::RC3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	7;"	d	line:7
+SCL_DIR::TRISC3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	9;"	d	line:9
+SDA::RC4	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	6;"	d	line:6
+SDA_DIR::TRISC4	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	8;"	d	line:8
+SEG_CODE1	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	21;"	v	line:21
+SEG_CODE1	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	24;"	v	line:24
+SEG_CODE1	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	27;"	v	line:27
+SEG_CODE1	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	30;"	v	line:30
+SEG_CODE2	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	36;"	v	line:36
+SEG_CODE2	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	39;"	v	line:39
+SEG_CODE2	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	42;"	v	line:42
+SEL_RS485_DIR::TRISB0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	199;"	d	line:199
+SEL_RS485_RX::while(!TRMT);RB0=0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	200;"	d	line:200
+SEL_RS485_TX::RB0=1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	201;"	d	line:201
+SLEEP::asm("sleep")	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	259;"	d	line:259
+SOFTWARE_VERSION1::1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	35;"	d	line:35
+SOFTWARE_VERSION1::2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	41;"	d	line:41
+SOFTWARE_VERSION1::3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	47;"	d	line:47
+SOFTWARE_VERSION1::4	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	53;"	d	line:53
+SOFTWARE_VERSION2::1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	76;"	d	line:76
+SOFTWARE_VERSION2::2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	82;"	d	line:82
+SOFTWARE_VERSION2::3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	88;"	d	line:88
+SOFTWARE_VERSION2::4	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	93;"	d	line:93
+SOFTWARE_VERSION2::5	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	98;"	d	line:98
+SOFTWARE_VERSION2::6	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	103;"	d	line:103
+SOFTWARE_VERSION2::7	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	108;"	d	line:108
+SPEED::0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	20;"	d	line:20
+SPEED::0x4	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	18;"	d	line:18
+START_TEST00	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	236;"	e	line:236	file:
+START_TEST00	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	720;"	e	line:720	file:
+SWBOREN::0x3DFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	577;"	d	line:577
+SendFrame	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	60;"	p	line:60	signature:(void)
+Sys_staus	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	62;"	p	line:62	signature:(void)
+TIME	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	25;"	t	line:25
+TIMER0_PSA::PSA=0	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	32;"	d	line:32
+TIMER1_MAX::3	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer1.c	3;"	d	line:3	file:
+TIMER2_MAX::10	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer2.c	6;"	d	line:6	file:
+TRUE	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	13;"	e	line:13	enum:BOOL_TYPE
+TWO_DP	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	59;"	v	line:59
+TWO_DP	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	61;"	v	line:61
+TWO_DP	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	63;"	v	line:63
+TWO_USE_BIG	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	102;"	d	line:102
+TWO_USE_BIG	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	107;"	d	line:107
+TWO_USE_BIG	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	81;"	d	line:81
+TWO_USE_BIG	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	87;"	d	line:87
+TWO_USE_BIG	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	92;"	d	line:92
+TWO_USE_BIG	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	97;"	d	line:97
+TWO_USE_HM	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	80;"	d	line:80
+TWO_USE_HMS	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	74;"	d	line:74
+TWO_USE_HMS	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	86;"	d	line:86
+TWO_USE_SMALL	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	75;"	d	line:75
+TWO_USE_YMD_DAY	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	63;"	d	line:63
+TXD_BUFFER_LEN::20	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	175;"	d	line:175
+TX_PIN::TRISB5	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	25;"	d	line:25
+TX_PIN::TRISC6	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	28;"	d	line:28
+T_ADDR_POS::0x01	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	30;"	d	line:30
+T_CARDTYPE_POS::0x04	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	33;"	d	line:33
+T_CHECKSUM_POS::0x08	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	37;"	d	line:37
+T_DATA_CMDH_POS::0x00	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	42;"	d	line:42
+T_DATA_CMDL_POS::0x01	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	43;"	d	line:43
+T_DATA_ERROR_POS::0x02	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	44;"	d	line:44
+T_DATA_POS::0x06	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	36;"	d	line:36
+T_HARDWARE_POS::0x03	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	32;"	d	line:32
+T_HEAD_POS::0x00	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	29;"	d	line:29
+T_LENGTH_POS::0x05	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	34;"	d	line:34
+T_PROTVER_POS::0x02	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	31;"	d	line:31
+T_TALL_POS::0x09	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	38;"	d	line:38
+UINT16	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	6;"	t	line:6
+UINT32	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	8;"	t	line:8
+UINT8	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	4;"	t	line:4
+UNPROTECT::0x3FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	569;"	d	line:569
+USART_SAVE_DEFAULT::3	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	209;"	d	line:209
+USART_SAVE_LIGHTING::4	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	210;"	d	line:210
+USART_SAVE_TIME::1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	207;"	d	line:207
+USART_SAVE_ZONE::2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	208;"	d	line:208
+USE_DIGITAL_MODE1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\include.h	24;"	d	line:24
+USE_DIGITAL_MODE2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\include.h	25;"	d	line:25
+USE_TEST_LED	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\include.h	21;"	d	line:21
+USE_TWO_FACE	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\include.h	10;"	d	line:10
+USE_TWO_FACE	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\include.h	48;"	d	line:48
+USE_YEAR_MONTH_DATA	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\include.h	17;"	d	line:17
+WARRING_CON_ZHONGZHEN::0x04	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	121;"	d	line:121
+WARRING_FACE_ZHONGZHEN::0x02	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	120;"	d	line:120
+WARRING_NOT_JIAOSHI::0x08	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	119;"	d	line:119
+WDTDIS::0x3FF7	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	561;"	d	line:561
+WDTEN::0x3FFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	560;"	d	line:560
+WDTPS_0000::WDTPS3=0;WDTPS2=0;WDTPS1=0;WDT	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	20;"	d	line:20
+WDTPS_0001::WDTPS3=0;WDTPS2=0;WDTPS1=0;WDT	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	21;"	d	line:21
+WDTPS_0010::WDTPS3=0;WDTPS2=0;WDTPS1=1;WDT	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	22;"	d	line:22
+WDTPS_0011::WDTPS3=0;WDTPS2=0;WDTPS1=1;WDT	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	23;"	d	line:23
+WDTPS_0100::WDTPS3=0;WDTPS2=1;WDTPS1=0;WDT	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	24;"	d	line:24
+WDTPS_0101::WDTPS3=0;WDTPS2=1;WDTPS1=0;WDT	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	25;"	d	line:25
+WDTPS_0110::WDTPS3=0;WDTPS2=1;WDTPS1=1;WDT	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	26;"	d	line:26
+WDTPS_0111::WDTPS3=0;WDTPS2=1;WDTPS1=1;WDT	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	27;"	d	line:27
+WDTPS_1000::WDTPS3=1;WDTPS2=0;WDTPS1=0;WDT	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	28;"	d	line:28
+WDTPS_1001::WDTPS3=1;WDTPS2=0;WDTPS1=0;WDT	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	29;"	d	line:29
+WDTPS_1010::WDTPS3=1;WDTPS2=0;WDTPS1=1;WDT	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	30;"	d	line:30
+WDTPS_1011::WDTPS3=1;WDTPS2=0;WDTPS1=1;WDT	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	31;"	d	line:31
+WDT_EN::SWDTEN=1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	34;"	d	line:34
+WDT_PSA::PSA=1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	33;"	d	line:33
+WP0::0x3BFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	598;"	d	line:598
+WP0::0x3DFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	601;"	d	line:601
+WP1::0x39FF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	599;"	d	line:599
+WP1::0x3BFF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	602;"	d	line:602
+WP2::0x39FF	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	603;"	d	line:603
+WeekDay20	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\week.h	5;"	p	line:5	signature:(unsigned char y, unsigned char m, unsigned char d)
+WeekDay20	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	16;"	p	line:16	file:	signature:(unsigned char y, unsigned char m, unsigned char d)
+WeekDay20	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\week.c	25;"	f	line:25	signature:(unsigned char y, unsigned char m, unsigned char d)
+WeekTab	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\week.c	5;"	v	line:5
+XT::0x3FF9	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	557;"	d	line:557
+ZZH_12HOUR::0x00	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	113;"	d	line:113
+ZZH_24HOUR::0x20	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	114;"	d	line:114
+ZZH_422_485::0x00	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	115;"	d	line:115
+ZZH_NTP::0x40	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	116;"	d	line:116
+ZZH_SUPPORT_DJS::0x80	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	117;"	d	line:117
+ZZSQ_E::0x80	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	124;"	d	line:124
+ZZSQ_W::0x00	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	123;"	d	line:123
+_DATE	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	27;"	s	line:27
+_DIGITAL_STATE	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	68;"	g	line:68
+_EEPROM_H_	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	2;"	d	line:2
+_INCLUDE_H_	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\include.h	2;"	d	line:2
+_LED_H_	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	2;"	d	line:2
+_NTP_INFO	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	35;"	s	line:35
+_PIC_H_	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	2;"	d	line:2
+_RTC_H_	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	4;"	d	line:4
+_SERIAL_H_	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	2;"	d	line:2
+_SYS_H_	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys.h	2;"	d	line:2
+_TIME	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	20;"	s	line:20
+_TIMER1_H_	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	2;"	d	line:2
+_TIMER2_H_	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer2.h	2;"	d	line:2
+_TYPE_H_	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	2;"	d	line:2
+_WEEK_H_	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\week.h	3;"	d	line:3
+_XTAL_FREQ::8000000	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\delay.h	4;"	d	line:4
+_XTAL_FREQ::8000000	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\include.h	4;"	d	line:4
+__CONFIG::(x)asm("	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	267;"	d	line:267
+__CRC_H	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\crc.h	2;"	d	line:2
+__DELAY_H_	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\delay.h	2;"	d	line:2
+__DS3231_H	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	2;"	d	line:2
+__EEPROM_DATA::(a,b,c,d,e,f,g,h)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	292;"	d	line:292
+__IDLOC7::(a,b,c,d)asm("	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	284;"	d	line:284
+__IDLOC::(w)asm("	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	275;"	d	line:275
+__PIC16F887_H	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	15;"	d	line:15
+__PICCPRO__::1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\include.h	3;"	d	line:3
+__SYS_COM_H	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	13;"	d	line:13
+__delay_ms::(x)_delay((unsignedlong)((x)*(	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\delay.h	10;"	d	line:10
+__delay_ms::(x)_delay((unsignedlong)((x)*(	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	384;"	d	line:384
+__delay_us::(x)_delay((unsignedlong)((x)*(	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\delay.h	9;"	d	line:9
+__delay_us::(x)_delay((unsignedlong)((x)*(	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	383;"	d	line:383
+_delay	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\delay.h	7;"	p	line:7	signature:(unsigned long)
+_delay	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	381;"	p	line:381	signature:(unsigned long)
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	103;"	p	line:103	signature:(unsigned)&STATUS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	104;"	p	line:104	signature:(unsigned)&STATUS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	105;"	p	line:105	signature:(unsigned)&STATUS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	106;"	p	line:106	signature:(unsigned)&STATUS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	107;"	p	line:107	signature:(unsigned)&STATUS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	108;"	p	line:108	signature:(unsigned)&STATUS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	109;"	p	line:109	signature:(unsigned)&STATUS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	110;"	p	line:110	signature:(unsigned)&STATUS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	113;"	p	line:113	signature:(unsigned)&PORTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	114;"	p	line:114	signature:(unsigned)&PORTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	115;"	p	line:115	signature:(unsigned)&PORTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	116;"	p	line:116	signature:(unsigned)&PORTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	117;"	p	line:117	signature:(unsigned)&PORTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	118;"	p	line:118	signature:(unsigned)&PORTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	119;"	p	line:119	signature:(unsigned)&PORTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	120;"	p	line:120	signature:(unsigned)&PORTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	123;"	p	line:123	signature:(unsigned)&PORTB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	124;"	p	line:124	signature:(unsigned)&PORTB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	125;"	p	line:125	signature:(unsigned)&PORTB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	126;"	p	line:126	signature:(unsigned)&PORTB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	127;"	p	line:127	signature:(unsigned)&PORTB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	128;"	p	line:128	signature:(unsigned)&PORTB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	129;"	p	line:129	signature:(unsigned)&PORTB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	130;"	p	line:130	signature:(unsigned)&PORTB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	133;"	p	line:133	signature:(unsigned)&PORTC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	134;"	p	line:134	signature:(unsigned)&PORTC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	135;"	p	line:135	signature:(unsigned)&PORTC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	136;"	p	line:136	signature:(unsigned)&PORTC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	137;"	p	line:137	signature:(unsigned)&PORTC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	138;"	p	line:138	signature:(unsigned)&PORTC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	139;"	p	line:139	signature:(unsigned)&PORTC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	140;"	p	line:140	signature:(unsigned)&PORTC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	144;"	p	line:144	signature:(unsigned)&PORTD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	145;"	p	line:145	signature:(unsigned)&PORTD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	146;"	p	line:146	signature:(unsigned)&PORTD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	147;"	p	line:147	signature:(unsigned)&PORTD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	148;"	p	line:148	signature:(unsigned)&PORTD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	149;"	p	line:149	signature:(unsigned)&PORTD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	150;"	p	line:150	signature:(unsigned)&PORTD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	151;"	p	line:151	signature:(unsigned)&PORTD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	154;"	p	line:154	signature:(unsigned)&PORTE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	155;"	p	line:155	signature:(unsigned)&PORTE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	156;"	p	line:156	signature:(unsigned)&PORTE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	158;"	p	line:158	signature:(unsigned)&PORTE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	161;"	p	line:161	signature:(unsigned)&INTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	163;"	p	line:163	signature:(unsigned)&INTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	164;"	p	line:164	signature:(unsigned)&INTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	165;"	p	line:165	signature:(unsigned)&INTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	166;"	p	line:166	signature:(unsigned)&INTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	168;"	p	line:168	signature:(unsigned)&INTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	169;"	p	line:169	signature:(unsigned)&INTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	170;"	p	line:170	signature:(unsigned)&INTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	171;"	p	line:171	signature:(unsigned)&INTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	172;"	p	line:172	signature:(unsigned)&INTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	175;"	p	line:175	signature:(unsigned)&PIR1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	176;"	p	line:176	signature:(unsigned)&PIR1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	177;"	p	line:177	signature:(unsigned)&PIR1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	178;"	p	line:178	signature:(unsigned)&PIR1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	179;"	p	line:179	signature:(unsigned)&PIR1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	180;"	p	line:180	signature:(unsigned)&PIR1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	181;"	p	line:181	signature:(unsigned)&PIR1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	184;"	p	line:184	signature:(unsigned)&PIR2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	185;"	p	line:185	signature:(unsigned)&PIR2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	186;"	p	line:186	signature:(unsigned)&PIR2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	187;"	p	line:187	signature:(unsigned)&PIR2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	188;"	p	line:188	signature:(unsigned)&PIR2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	189;"	p	line:189	signature:(unsigned)&PIR2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	190;"	p	line:190	signature:(unsigned)&PIR2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	193;"	p	line:193	signature:(unsigned)&T1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	194;"	p	line:194	signature:(unsigned)&T1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	195;"	p	line:195	signature:(unsigned)&T1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	196;"	p	line:196	signature:(unsigned)&T1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	197;"	p	line:197	signature:(unsigned)&T1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	198;"	p	line:198	signature:(unsigned)&T1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	199;"	p	line:199	signature:(unsigned)&T1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	200;"	p	line:200	signature:(unsigned)&T1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	203;"	p	line:203	signature:(unsigned)&T2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	204;"	p	line:204	signature:(unsigned)&T2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	205;"	p	line:205	signature:(unsigned)&T2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	206;"	p	line:206	signature:(unsigned)&T2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	207;"	p	line:207	signature:(unsigned)&T2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	208;"	p	line:208	signature:(unsigned)&T2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	209;"	p	line:209	signature:(unsigned)&T2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	212;"	p	line:212	signature:(unsigned)&SSPCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	213;"	p	line:213	signature:(unsigned)&SSPCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	214;"	p	line:214	signature:(unsigned)&SSPCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	215;"	p	line:215	signature:(unsigned)&SSPCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	216;"	p	line:216	signature:(unsigned)&SSPCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	217;"	p	line:217	signature:(unsigned)&SSPCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	218;"	p	line:218	signature:(unsigned)&SSPCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	219;"	p	line:219	signature:(unsigned)&SSPCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	222;"	p	line:222	signature:(unsigned)&CCP1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	223;"	p	line:223	signature:(unsigned)&CCP1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	224;"	p	line:224	signature:(unsigned)&CCP1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	225;"	p	line:225	signature:(unsigned)&CCP1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	226;"	p	line:226	signature:(unsigned)&CCP1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	227;"	p	line:227	signature:(unsigned)&CCP1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	228;"	p	line:228	signature:(unsigned)&CCP1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	229;"	p	line:229	signature:(unsigned)&CCP1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	232;"	p	line:232	signature:(unsigned)&RCSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	233;"	p	line:233	signature:(unsigned)&RCSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	234;"	p	line:234	signature:(unsigned)&RCSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	235;"	p	line:235	signature:(unsigned)&RCSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	236;"	p	line:236	signature:(unsigned)&RCSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	237;"	p	line:237	signature:(unsigned)&RCSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	238;"	p	line:238	signature:(unsigned)&RCSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	239;"	p	line:239	signature:(unsigned)&RCSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	242;"	p	line:242	signature:(unsigned)&CCP2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	243;"	p	line:243	signature:(unsigned)&CCP2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	244;"	p	line:244	signature:(unsigned)&CCP2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	245;"	p	line:245	signature:(unsigned)&CCP2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	246;"	p	line:246	signature:(unsigned)&CCP2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	247;"	p	line:247	signature:(unsigned)&CCP2CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	250;"	p	line:250	signature:(unsigned)&ADCON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	251;"	p	line:251	signature:(unsigned)&ADCON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	252;"	p	line:252	signature:(unsigned)&ADCON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	253;"	p	line:253	signature:(unsigned)&ADCON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	254;"	p	line:254	signature:(unsigned)&ADCON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	255;"	p	line:255	signature:(unsigned)&ADCON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	256;"	p	line:256	signature:(unsigned)&ADCON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	257;"	p	line:257	signature:(unsigned)&ADCON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	260;"	p	line:260	signature:(unsigned)&OPTION*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	261;"	p	line:261	signature:(unsigned)&OPTION*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	262;"	p	line:262	signature:(unsigned)&OPTION*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	263;"	p	line:263	signature:(unsigned)&OPTION*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	264;"	p	line:264	signature:(unsigned)&OPTION*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	265;"	p	line:265	signature:(unsigned)&OPTION*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	266;"	p	line:266	signature:(unsigned)&OPTION*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	267;"	p	line:267	signature:(unsigned)&OPTION*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	269;"	p	line:269	signature:(unsigned)&OPTION*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	272;"	p	line:272	signature:(unsigned)&TRISA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	273;"	p	line:273	signature:(unsigned)&TRISA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	274;"	p	line:274	signature:(unsigned)&TRISA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	275;"	p	line:275	signature:(unsigned)&TRISA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	276;"	p	line:276	signature:(unsigned)&TRISA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	277;"	p	line:277	signature:(unsigned)&TRISA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	278;"	p	line:278	signature:(unsigned)&TRISA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	279;"	p	line:279	signature:(unsigned)&TRISA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	282;"	p	line:282	signature:(unsigned)&TRISB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	283;"	p	line:283	signature:(unsigned)&TRISB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	284;"	p	line:284	signature:(unsigned)&TRISB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	285;"	p	line:285	signature:(unsigned)&TRISB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	286;"	p	line:286	signature:(unsigned)&TRISB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	287;"	p	line:287	signature:(unsigned)&TRISB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	288;"	p	line:288	signature:(unsigned)&TRISB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	289;"	p	line:289	signature:(unsigned)&TRISB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	292;"	p	line:292	signature:(unsigned)&TRISC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	293;"	p	line:293	signature:(unsigned)&TRISC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	294;"	p	line:294	signature:(unsigned)&TRISC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	295;"	p	line:295	signature:(unsigned)&TRISC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	296;"	p	line:296	signature:(unsigned)&TRISC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	297;"	p	line:297	signature:(unsigned)&TRISC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	298;"	p	line:298	signature:(unsigned)&TRISC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	299;"	p	line:299	signature:(unsigned)&TRISC*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	303;"	p	line:303	signature:(unsigned)&TRISD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	304;"	p	line:304	signature:(unsigned)&TRISD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	305;"	p	line:305	signature:(unsigned)&TRISD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	306;"	p	line:306	signature:(unsigned)&TRISD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	307;"	p	line:307	signature:(unsigned)&TRISD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	308;"	p	line:308	signature:(unsigned)&TRISD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	309;"	p	line:309	signature:(unsigned)&TRISD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	310;"	p	line:310	signature:(unsigned)&TRISD*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	313;"	p	line:313	signature:(unsigned)&TRISE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	314;"	p	line:314	signature:(unsigned)&TRISE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	315;"	p	line:315	signature:(unsigned)&TRISE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	317;"	p	line:317	signature:(unsigned)&TRISE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	320;"	p	line:320	signature:(unsigned)&PIE1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	321;"	p	line:321	signature:(unsigned)&PIE1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	322;"	p	line:322	signature:(unsigned)&PIE1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	323;"	p	line:323	signature:(unsigned)&PIE1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	324;"	p	line:324	signature:(unsigned)&PIE1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	325;"	p	line:325	signature:(unsigned)&PIE1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	326;"	p	line:326	signature:(unsigned)&PIE1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	329;"	p	line:329	signature:(unsigned)&PIE2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	330;"	p	line:330	signature:(unsigned)&PIE2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	331;"	p	line:331	signature:(unsigned)&PIE2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	332;"	p	line:332	signature:(unsigned)&PIE2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	333;"	p	line:333	signature:(unsigned)&PIE2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	334;"	p	line:334	signature:(unsigned)&PIE2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	335;"	p	line:335	signature:(unsigned)&PIE2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	338;"	p	line:338	signature:(unsigned)&PCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	339;"	p	line:339	signature:(unsigned)&PCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	340;"	p	line:340	signature:(unsigned)&PCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	341;"	p	line:341	signature:(unsigned)&PCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	344;"	p	line:344	signature:(unsigned)&OSCCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	345;"	p	line:345	signature:(unsigned)&OSCCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	346;"	p	line:346	signature:(unsigned)&OSCCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	347;"	p	line:347	signature:(unsigned)&OSCCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	348;"	p	line:348	signature:(unsigned)&OSCCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	349;"	p	line:349	signature:(unsigned)&OSCCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	350;"	p	line:350	signature:(unsigned)&OSCCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	353;"	p	line:353	signature:(unsigned)&OSCTUNE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	354;"	p	line:354	signature:(unsigned)&OSCTUNE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	355;"	p	line:355	signature:(unsigned)&OSCTUNE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	356;"	p	line:356	signature:(unsigned)&OSCTUNE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	357;"	p	line:357	signature:(unsigned)&OSCTUNE*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	360;"	p	line:360	signature:(unsigned)&SSPCON2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	361;"	p	line:361	signature:(unsigned)&SSPCON2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	362;"	p	line:362	signature:(unsigned)&SSPCON2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	363;"	p	line:363	signature:(unsigned)&SSPCON2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	364;"	p	line:364	signature:(unsigned)&SSPCON2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	365;"	p	line:365	signature:(unsigned)&SSPCON2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	366;"	p	line:366	signature:(unsigned)&SSPCON2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	367;"	p	line:367	signature:(unsigned)&SSPCON2*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	370;"	p	line:370	signature:(unsigned)&SSPSTAT*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	371;"	p	line:371	signature:(unsigned)&SSPSTAT*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	372;"	p	line:372	signature:(unsigned)&SSPSTAT*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	373;"	p	line:373	signature:(unsigned)&SSPSTAT*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	374;"	p	line:374	signature:(unsigned)&SSPSTAT*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	375;"	p	line:375	signature:(unsigned)&SSPSTAT*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	376;"	p	line:376	signature:(unsigned)&SSPSTAT*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	377;"	p	line:377	signature:(unsigned)&SSPSTAT*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	380;"	p	line:380	signature:(unsigned)&WPUB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	381;"	p	line:381	signature:(unsigned)&WPUB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	382;"	p	line:382	signature:(unsigned)&WPUB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	383;"	p	line:383	signature:(unsigned)&WPUB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	384;"	p	line:384	signature:(unsigned)&WPUB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	385;"	p	line:385	signature:(unsigned)&WPUB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	386;"	p	line:386	signature:(unsigned)&WPUB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	387;"	p	line:387	signature:(unsigned)&WPUB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	390;"	p	line:390	signature:(unsigned)&IOCB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	391;"	p	line:391	signature:(unsigned)&IOCB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	392;"	p	line:392	signature:(unsigned)&IOCB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	393;"	p	line:393	signature:(unsigned)&IOCB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	394;"	p	line:394	signature:(unsigned)&IOCB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	395;"	p	line:395	signature:(unsigned)&IOCB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	396;"	p	line:396	signature:(unsigned)&IOCB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	397;"	p	line:397	signature:(unsigned)&IOCB*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	400;"	p	line:400	signature:(unsigned)&VRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	401;"	p	line:401	signature:(unsigned)&VRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	402;"	p	line:402	signature:(unsigned)&VRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	403;"	p	line:403	signature:(unsigned)&VRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	404;"	p	line:404	signature:(unsigned)&VRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	405;"	p	line:405	signature:(unsigned)&VRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	406;"	p	line:406	signature:(unsigned)&VRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	407;"	p	line:407	signature:(unsigned)&VRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	410;"	p	line:410	signature:(unsigned)&TXSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	411;"	p	line:411	signature:(unsigned)&TXSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	412;"	p	line:412	signature:(unsigned)&TXSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	413;"	p	line:413	signature:(unsigned)&TXSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	414;"	p	line:414	signature:(unsigned)&TXSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	415;"	p	line:415	signature:(unsigned)&TXSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	416;"	p	line:416	signature:(unsigned)&TXSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	417;"	p	line:417	signature:(unsigned)&TXSTA*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	420;"	p	line:420	signature:(unsigned)&SPBRG*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	421;"	p	line:421	signature:(unsigned)&SPBRG*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	422;"	p	line:422	signature:(unsigned)&SPBRG*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	423;"	p	line:423	signature:(unsigned)&SPBRG*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	424;"	p	line:424	signature:(unsigned)&SPBRG*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	425;"	p	line:425	signature:(unsigned)&SPBRG*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	426;"	p	line:426	signature:(unsigned)&SPBRG*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	427;"	p	line:427	signature:(unsigned)&SPBRG*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	430;"	p	line:430	signature:(unsigned)&SPBRGH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	431;"	p	line:431	signature:(unsigned)&SPBRGH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	432;"	p	line:432	signature:(unsigned)&SPBRGH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	433;"	p	line:433	signature:(unsigned)&SPBRGH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	434;"	p	line:434	signature:(unsigned)&SPBRGH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	435;"	p	line:435	signature:(unsigned)&SPBRGH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	436;"	p	line:436	signature:(unsigned)&SPBRGH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	437;"	p	line:437	signature:(unsigned)&SPBRGH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	440;"	p	line:440	signature:(unsigned)&PWM1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	441;"	p	line:441	signature:(unsigned)&PWM1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	442;"	p	line:442	signature:(unsigned)&PWM1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	443;"	p	line:443	signature:(unsigned)&PWM1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	444;"	p	line:444	signature:(unsigned)&PWM1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	445;"	p	line:445	signature:(unsigned)&PWM1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	446;"	p	line:446	signature:(unsigned)&PWM1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	447;"	p	line:447	signature:(unsigned)&PWM1CON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	450;"	p	line:450	signature:(unsigned)&ECCPAS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	451;"	p	line:451	signature:(unsigned)&ECCPAS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	452;"	p	line:452	signature:(unsigned)&ECCPAS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	453;"	p	line:453	signature:(unsigned)&ECCPAS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	454;"	p	line:454	signature:(unsigned)&ECCPAS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	455;"	p	line:455	signature:(unsigned)&ECCPAS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	456;"	p	line:456	signature:(unsigned)&ECCPAS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	457;"	p	line:457	signature:(unsigned)&ECCPAS*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	460;"	p	line:460	signature:(unsigned)&PSTRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	461;"	p	line:461	signature:(unsigned)&PSTRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	462;"	p	line:462	signature:(unsigned)&PSTRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	463;"	p	line:463	signature:(unsigned)&PSTRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	464;"	p	line:464	signature:(unsigned)&PSTRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	467;"	p	line:467	signature:(unsigned)&ADCON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	468;"	p	line:468	signature:(unsigned)&ADCON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	469;"	p	line:469	signature:(unsigned)&ADCON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	472;"	p	line:472	signature:(unsigned)&WDTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	473;"	p	line:473	signature:(unsigned)&WDTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	474;"	p	line:474	signature:(unsigned)&WDTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	475;"	p	line:475	signature:(unsigned)&WDTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	476;"	p	line:476	signature:(unsigned)&WDTCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	479;"	p	line:479	signature:(unsigned)&CM1CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	480;"	p	line:480	signature:(unsigned)&CM1CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	481;"	p	line:481	signature:(unsigned)&CM1CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	482;"	p	line:482	signature:(unsigned)&CM1CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	483;"	p	line:483	signature:(unsigned)&CM1CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	484;"	p	line:484	signature:(unsigned)&CM1CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	485;"	p	line:485	signature:(unsigned)&CM1CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	488;"	p	line:488	signature:(unsigned)&CM2CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	489;"	p	line:489	signature:(unsigned)&CM2CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	490;"	p	line:490	signature:(unsigned)&CM2CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	491;"	p	line:491	signature:(unsigned)&CM2CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	492;"	p	line:492	signature:(unsigned)&CM2CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	493;"	p	line:493	signature:(unsigned)&CM2CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	494;"	p	line:494	signature:(unsigned)&CM2CON0*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	497;"	p	line:497	signature:(unsigned)&CM2CON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	498;"	p	line:498	signature:(unsigned)&CM2CON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	499;"	p	line:499	signature:(unsigned)&CM2CON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	500;"	p	line:500	signature:(unsigned)&CM2CON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	501;"	p	line:501	signature:(unsigned)&CM2CON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	502;"	p	line:502	signature:(unsigned)&CM2CON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	505;"	p	line:505	signature:(unsigned)&SRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	506;"	p	line:506	signature:(unsigned)&SRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	507;"	p	line:507	signature:(unsigned)&SRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	508;"	p	line:508	signature:(unsigned)&SRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	509;"	p	line:509	signature:(unsigned)&SRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	510;"	p	line:510	signature:(unsigned)&SRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	511;"	p	line:511	signature:(unsigned)&SRCON*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	514;"	p	line:514	signature:(unsigned)&BAUDCTL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	515;"	p	line:515	signature:(unsigned)&BAUDCTL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	516;"	p	line:516	signature:(unsigned)&BAUDCTL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	517;"	p	line:517	signature:(unsigned)&BAUDCTL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	518;"	p	line:518	signature:(unsigned)&BAUDCTL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	519;"	p	line:519	signature:(unsigned)&BAUDCTL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	522;"	p	line:522	signature:(unsigned)&ANSEL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	523;"	p	line:523	signature:(unsigned)&ANSEL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	524;"	p	line:524	signature:(unsigned)&ANSEL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	525;"	p	line:525	signature:(unsigned)&ANSEL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	526;"	p	line:526	signature:(unsigned)&ANSEL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	528;"	p	line:528	signature:(unsigned)&ANSEL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	529;"	p	line:529	signature:(unsigned)&ANSEL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	530;"	p	line:530	signature:(unsigned)&ANSEL*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	534;"	p	line:534	signature:(unsigned)&ANSELH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	535;"	p	line:535	signature:(unsigned)&ANSELH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	536;"	p	line:536	signature:(unsigned)&ANSELH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	537;"	p	line:537	signature:(unsigned)&ANSELH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	538;"	p	line:538	signature:(unsigned)&ANSELH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	539;"	p	line:539	signature:(unsigned)&ANSELH*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	542;"	p	line:542	signature:(unsigned)&EECON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	543;"	p	line:543	signature:(unsigned)&EECON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	544;"	p	line:544	signature:(unsigned)&EECON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	545;"	p	line:545	signature:(unsigned)&EECON1*8
+bit	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	546;"	p	line:546	signature:(unsigned)&EECON1*8
+calc_chk_value	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	88;"	l	line:88
+calc_zone	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	37;"	p	line:37	signature:(void)
+calc_zone	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	150;"	f	line:150	signature:(void)
+calccrc	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\CRC.c	4;"	f	line:4	signature:(unsigned char crcbuf,unsigned short int crc)
+cbuffer	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\usart.c	72;"	l	line:72
+cdata_execute	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	44;"	p	line:44	signature:(void)
+check_value	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	81;"	l	line:81
+chk	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\CRC.c	6;"	l	line:6
+chk_value	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	88;"	l	line:88
+con_write_eeprom	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	38;"	p	line:38	signature:(uint8_t start,uint8_t databyte[],uint8_t len)
+con_write_eeprom	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	207;"	f	line:207	signature:(uint8_t start,uint8_t databyte[],uint8_t len)
+copy_display_mode_state	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	248;"	l	line:248	file:
+copy_display_mode_state	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	732;"	l	line:732	file:
+copy_flag_dian	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	226;"	l	line:226	file:
+copy_flag_dian	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	713;"	l	line:713	file:
+copy_func	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	89;"	l	line:89
+copy_intcon	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\eeprom.c	12;"	l	line:12
+copy_old_date	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	10;"	v	line:10	file:
+copy_old_time	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	11;"	v	line:11	file:
+copy_rx_udata	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	6;"	v	line:6	file:
+count	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	226;"	l	line:226	file:
+count	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	713;"	l	line:713	file:
+count	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	69;"	l	line:69
+count	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	92;"	l	line:92
+count	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	37;"	l	line:37
+count	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	80;"	l	line:80
+crc	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\CRC.c	27;"	l	line:27
+dat	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	93;"	l	line:93
+date	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	30;"	m	line:30	struct:_DATE
+date	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	137;"	l	line:137
+date	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	225;"	l	line:225
+date	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	712;"	l	line:712
+date_add	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	13;"	p	line:13	signature:(DATE *t)
+date_add	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer1.c	138;"	f	line:138	signature:(DATE *t)
+date_dec	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	12;"	p	line:12	signature:(DATE *t)
+date_dec	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer1.c	177;"	f	line:177	signature:(DATE *t)
+day	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	29;"	m	line:29	struct:_DATE
+day	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\week.c	27;"	l	line:27
+dec_hex	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	34;"	p	line:34	signature:(uint8_t dec16)
+dec_hex	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	144;"	f	line:144	signature:(uint8_t dec16)
+delay	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	67;"	p	line:67	signature:(u8 n)
+delay	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	177;"	f	line:177	signature:(u8 n)
+delay_10us	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	66;"	p	line:66	signature:(void)
+delay_10us	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	158;"	f	line:158	signature:(void)
+delay_1us::Nop;Nop	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	120;"	d	line:120
+delay_ms::__delay_ms	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys.h	25;"	d	line:25
+di::(GIE=0)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	425;"	d	line:425
+di::(GLINTD=1)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	404;"	d	line:404
+di::{do{GIE=0;}while(GIE==1);}	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	421;"	d	line:421
+di::{do{GLINTD=1;}while(GLINTD==0)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	400;"	d	line:400
+disp_data_time	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	39;"	v	line:39
+disp_rxd_length	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	8;"	v	line:8	file:
+disp_state	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	47;"	v	line:47
+display_close	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	240;"	e	line:240	file:
+display_close	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	724;"	e	line:724	file:
+display_grade1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	40;"	m	line:40	struct:_NTP_INFO
+display_grade2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	46;"	m	line:46	struct:_NTP_INFO
+display_mode_state	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	246;"	l	line:246	file:
+display_mode_state	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	730;"	l	line:730	file:
+display_normal	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	232;"	e	line:232	file:
+display_normal	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	716;"	e	line:716	file:
+display_on_off1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	39;"	m	line:39	struct:_NTP_INFO
+display_on_off2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	45;"	m	line:45	struct:_NTP_INFO
+display_open	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	242;"	e	line:242	file:
+display_open	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	726;"	e	line:726	file:
+display_reset	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	243;"	e	line:243	file:
+display_reset	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	727;"	e	line:727	file:
+display_stop	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	239;"	e	line:239	file:
+display_stop	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	723;"	e	line:723	file:
+djs_con_time1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	55;"	m	line:55	struct:_NTP_INFO
+djs_con_time2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	61;"	m	line:61	struct:_NTP_INFO
+djs_on_off1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	53;"	m	line:53	struct:_NTP_INFO
+djs_on_off2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	59;"	m	line:59	struct:_NTP_INFO
+djs_start_time1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	54;"	m	line:54	struct:_NTP_INFO
+djs_start_time2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	60;"	m	line:60	struct:_NTP_INFO
+ds3231_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	32;"	p	line:32	signature:(void)
+ds3231_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	14;"	f	line:14	signature:(void)
+ds3231_state	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	19;"	l	line:19
+ds3231_state	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	49;"	l	line:49
+ds3231_time	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	49;"	l	line:49
+ds3231_time2	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	49;"	l	line:49
+ds3231_time3	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	49;"	l	line:49
+eeprom_data	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	17;"	l	line:17
+eeprom_data	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	189;"	l	line:189
+eeprom_data	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	279;"	l	line:279
+ei::(GIE=1)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	411;"	d	line:411
+ei::(GLINTD=0)	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	395;"	d	line:395
+end_time1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	42;"	m	line:42	struct:_NTP_INFO
+end_time2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	48;"	m	line:48	struct:_NTP_INFO
+errtime	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	25;"	l	line:25
+flag_data_process	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	7;"	v	line:7	file:
+flag_dian1	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	12;"	v	line:12
+flag_dian2	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	14;"	v	line:14
+flag_disp_true	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	13;"	v	line:13	file:
+flag_display_lighting1	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	28;"	v	line:28
+flag_display_lighting2	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	32;"	v	line:32
+flag_jiaoshi	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	9;"	v	line:9
+flag_save_data	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	90;"	l	line:90
+flag_send_data	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	90;"	l	line:90
+flag_temp	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	92;"	l	line:92
+flag_temp_shi	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	81;"	v	line:81
+flag_usart_start	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	37;"	v	line:37
+flash_erase	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	371;"	p	line:371	signature:(unsigned short addr)
+flash_read	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic.h	307;"	p	line:307	signature:(unsigned short addr)
+flicker_count	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	42;"	v	line:42
+flicker_data_copy	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	41;"	v	line:41
+flicker_num	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	41;"	v	line:41
+fork	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	227;"	l	line:227	file:
+func	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	89;"	l	line:89
+get_time	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	35;"	p	line:35	signature:(void)
+get_time	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	46;"	f	line:46	signature:(void)
+hex_dec	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	33;"	p	line:33	signature:(unsigned char hex16)
+hex_dec	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	139;"	f	line:139	signature:(uint8_t hex16)
+hi	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\CRC.c	25;"	l	line:25
+hour	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	22;"	m	line:22	struct:_TIME
+humi_value	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	27;"	v	line:27
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\CRC.c	26;"	l	line:26
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\CRC.c	6;"	l	line:6
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	155;"	l	line:155
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	17;"	l	line:17
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	209;"	l	line:209
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	49;"	l	line:49
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	99;"	l	line:99
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	136;"	l	line:136
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	225;"	l	line:225
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	698;"	l	line:698
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	712;"	l	line:712
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	90;"	l	line:90
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	189;"	l	line:189
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	279;"	l	line:279
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	179;"	l	line:179
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	37;"	l	line:37
+i	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	80;"	l	line:80
+i2c_delay::(x)NOP;NOP;	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	11;"	d	line:11
+i2c_read	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	22;"	p	line:22	signature:(void)
+i2c_read	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	90;"	f	line:90	signature:(void)
+i2c_send	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	21;"	p	line:21	signature:(unsigned char send_data)
+i2c_send	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	67;"	f	line:67	signature:(uint8_t send_data)
+id	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\usart.c	34;"	l	line:34
+id_code	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	43;"	p	line:43	signature:(void)
+id_code	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\usart.c	32;"	f	line:32	signature:(void)
+infrare	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	39;"	p	line:39	signature:(void)
+infrare	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\infrare.c	27;"	f	line:27	signature:(void)
+infrare_h	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	3;"	d	line:3
+init_comms::	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	38;"	d	line:38
+interupt_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys.h	5;"	p	line:5	signature:(void)
+interupt_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	78;"	f	line:78	signature:(void)
+ir_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	42;"	p	line:42	signature:(void)
+ir_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\infrare.c	245;"	f	line:245	signature:(void)
+ir_operation	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\infrare.h	40;"	p	line:40	signature:(void)
+ir_operation	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\infrare.c	81;"	f	line:81	signature:(void)
+isleap	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	14;"	p	line:14	signature:(uint16_t year)
+isleap	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer1.c	214;"	f	line:214	signature:(uint16_t year)
+isr	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys.h	6;"	p	line:6	signature:(void)
+isr	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	89;"	f	line:89	signature:(void)
+j	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	155;"	l	line:155
+j	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	90;"	l	line:90
+j	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	179;"	l	line:179
+jiaoshi_cnt	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	11;"	v	line:11
+latch_rclk	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	8;"	p	line:8	signature:(uint8_t flag)
+latch_rclk	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	102;"	f	line:102	signature:(uint8_t flag)
+lcd_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	10;"	p	line:10	signature:(void)
+lcd_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	194;"	f	line:194	signature:(void)
+len_cnt	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	92;"	l	line:92
+lighting_cotrol	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys.h	9;"	p	line:9	signature:(void)
+lighting_cotrol	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	368;"	f	line:368	signature:(void)
+lighting_cotrol2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys.h	14;"	p	line:14	signature:(void)
+lighting_cotrol2	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	520;"	f	line:520	signature:(void)
+lighting_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys.h	10;"	p	line:10	signature:(void)
+lighting_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	187;"	f	line:187	signature:(void)
+lighting_init2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys.h	15;"	p	line:15	signature:(void)
+lighting_init2	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	277;"	f	line:277	signature:(void)
+linght_state1	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	52;"	v	line:52
+linght_state1	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	66;"	v	line:66
+linght_state2	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	59;"	v	line:59
+linght_state2	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	66;"	v	line:66
+lo	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\CRC.c	25;"	l	line:25
+main	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	86;"	f	line:86	signature:(void)
+min	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	23;"	m	line:23	struct:_TIME
+month	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	31;"	m	line:31	struct:_DATE
+month_day	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer1.c	140;"	l	line:140
+months	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	17;"	v	line:17
+my_id_code	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	26;"	v	line:26
+ntp_info	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	22;"	v	line:22
+old_date	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	6;"	v	line:6
+old_time	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	5;"	v	line:5
+putch	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	40;"	p	line:40	signature:(uint8_t byte)
+putch	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\usart.c	93;"	f	line:93	signature:(uint8_t byte)
+read_eeprom	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	5;"	p	line:5	signature:(uint8_t addre)
+read_eeprom	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\eeprom.c	31;"	f	line:31	signature:(uint8_t addre)
+readbyte	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	24;"	p	line:24	signature:(unsigned char address)
+readbyte	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	132;"	f	line:132	signature:(uint8_t address)
+readdata	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\eeprom.c	33;"	l	line:33
+recv_data	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	134;"	l	line:134
+rx_udata	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	25;"	v	line:25
+save_time_cnt	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	91;"	l	line:91	file:
+sec	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	24;"	m	line:24	struct:_TIME
+seg_disp	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	9;"	p	line:9	signature:(uint8_t num, uint8_t dp,uint8_t flag)
+seg_disp	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	134;"	f	line:134	signature:(uint8_t num, uint8_t dp,uint8_t flag)
+send_char	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys_com.h	59;"	p	line:59	signature:(u8 data)
+sendack_i2c	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	19;"	p	line:19	signature:(void)
+sendack_i2c	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	47;"	f	line:47	signature:(void)
+sendnotack_i2c	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	20;"	p	line:20	signature:(void)
+sendnotack_i2c	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	57;"	f	line:57	signature:(void)
+settime	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\DS3231.h	36;"	p	line:36	signature:(void)
+settime	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	96;"	f	line:96	signature:(void)
+shift_srclk	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	7;"	p	line:7	signature:(uint8_t flag)
+shift_srclk	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	70;"	f	line:70	signature:(uint8_t flag)
+start_i2c	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	16;"	p	line:16	signature:(void)
+start_i2c	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	11;"	f	line:11	signature:(void)
+start_time1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	41;"	m	line:41	struct:_NTP_INFO
+start_time2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	47;"	m	line:47	struct:_NTP_INFO
+stop_i2c::(x)SDA=0;	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	15;"	d	line:15
+sys_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys.h	4;"	p	line:4	signature:(void)
+system_value_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\sys.h	7;"	p	line:7	signature:(void)
+system_value_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	140;"	f	line:140	signature:(void)
+temp_value	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	26;"	v	line:26
+test_mode1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	50;"	m	line:50	struct:_NTP_INFO
+test_mode2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	51;"	m	line:51	struct:_NTP_INFO
+time_add	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	9;"	p	line:9	signature:(TIME *t)
+time_add	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer1.c	77;"	f	line:77	signature:(TIME *t)
+time_dec	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	10;"	p	line:10	signature:(TIME *t)
+time_dec	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer1.c	108;"	f	line:108	signature:(TIME *t)
+time_zone	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	64;"	m	line:64	struct:_NTP_INFO
+timer1_cnt	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	10;"	v	line:10
+timer1_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	4;"	p	line:4	signature:(void)
+timer1_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer1.c	20;"	f	line:20	signature:(void)
+timer1_isr	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer1.h	5;"	p	line:5	signature:(void)
+timer1_isr	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer1.c	44;"	f	line:44	signature:(void)
+timer2_cnt	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer2.c	8;"	v	line:8	file:
+timer2_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer2.h	5;"	p	line:5	signature:(void)
+timer2_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer2.c	22;"	f	line:22	signature:(void)
+timer2_isr	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\timer2.h	6;"	p	line:6	signature:(void)
+timer2_isr	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\timer2.c	43;"	f	line:43	signature:(void)
+tx_udata	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	4;"	v	line:4	file:
+uchar::unsignedchar	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\CRC.c	2;"	d	line:2	file:
+uint16_t::UINT16	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	16;"	d	line:16
+uint32_t::UINT32	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	17;"	d	line:17
+uint8_t::UINT8	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	15;"	d	line:15
+uint::unsignedshortint	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\CRC.c	3;"	d	line:3	file:
+up_date	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	12;"	p	line:12	signature:(uint8_t date[],uint8_t length,uint8_t dian,uint8_t flag)
+up_date	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	696;"	f	line:696	signature:(uint8_t date[],uint8_t length,uint8_t dian,uint8_t flag)
+up_date_flag	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	19;"	v	line:19
+up_led_display	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\main.c	5;"	v	line:5	file:
+up_time1	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	11;"	p	line:11	signature:(uint8_t udata_time[])
+up_time1	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	223;"	f	line:223	signature:(uint8_t udata_time[])
+up_time2	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\led.h	14;"	p	line:14	signature:(uint8_t udata_time[])
+up_time2	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\led.c	710;"	f	line:710	signature:(uint8_t udata_time[])
+up_time_flag	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	8;"	v	line:8
+usart_count	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	36;"	v	line:36
+usart_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	41;"	p	line:41	signature:(void)
+usart_init	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\usart.c	16;"	f	line:16	signature:(void)
+usart_isr	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\usart.h	42;"	p	line:42	signature:(void)
+usart_isr	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\usart.c	70;"	f	line:70	signature:(void)
+usart_timer_cnt	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys.c	35;"	v	line:35
+value	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\sys_com.c	37;"	l	line:37
+waitack_i2c	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	18;"	p	line:18	signature:(void)
+waitack_i2c	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	23;"	f	line:23	signature:(void)
+week	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\week.c	27;"	l	line:27
+write_eeprom	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\eeprom.h	4;"	p	line:4	signature:(uint8_t addre,uint8_t databyte)
+write_eeprom	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\eeprom.c	10;"	f	line:10	signature:(uint8_t addre,uint8_t databyte)
+write_time	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\DS3231.c	99;"	l	line:99
+writebyte	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\rtc.h	23;"	p	line:23	signature:(unsigned char address,unsigned char data)
+writebyte	F:\cjbc_zmz\subclock\szz485_v1.5.01\source\rtc.c	119;"	f	line:119	signature:(uint8_t address,uint8_t data)
+x000	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	19;"	v	line:19
+x001	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	20;"	v	line:20
+x002	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	21;"	v	line:21
+x003	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	22;"	v	line:22
+x004	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	23;"	v	line:23
+x005	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	24;"	v	line:24
+x006	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	25;"	v	line:25
+x007	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	26;"	v	line:26
+x008	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	28;"	v	line:28
+x009	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	30;"	v	line:30
+x00A	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	31;"	v	line:31
+x00B	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	32;"	v	line:32
+x00C	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	33;"	v	line:33
+x00D	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	34;"	v	line:34
+x00E	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	35;"	v	line:35
+x00F	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	36;"	v	line:36
+x010	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	37;"	v	line:37
+x011	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	38;"	v	line:38
+x012	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	39;"	v	line:39
+x013	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	40;"	v	line:40
+x014	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	41;"	v	line:41
+x015	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	42;"	v	line:42
+x016	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	43;"	v	line:43
+x017	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	44;"	v	line:44
+x018	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	45;"	v	line:45
+x019	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	46;"	v	line:46
+x01A	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	47;"	v	line:47
+x01B	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	48;"	v	line:48
+x01C	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	49;"	v	line:49
+x01D	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	50;"	v	line:50
+x01E	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	51;"	v	line:51
+x01F	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	52;"	v	line:52
+x081	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	53;"	v	line:53
+x085	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	54;"	v	line:54
+x086	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	55;"	v	line:55
+x087	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	56;"	v	line:56
+x088	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	58;"	v	line:58
+x089	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	60;"	v	line:60
+x08C	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	61;"	v	line:61
+x08D	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	62;"	v	line:62
+x08E	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	63;"	v	line:63
+x08F	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	64;"	v	line:64
+x090	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	65;"	v	line:65
+x091	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	66;"	v	line:66
+x092	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	67;"	v	line:67
+x093	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	68;"	v	line:68
+x093	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	69;"	v	line:69
+x094	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	70;"	v	line:70
+x095	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	71;"	v	line:71
+x096	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	72;"	v	line:72
+x097	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	73;"	v	line:73
+x098	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	74;"	v	line:74
+x099	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	75;"	v	line:75
+x09A	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	76;"	v	line:76
+x09B	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	77;"	v	line:77
+x09C	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	78;"	v	line:78
+x09D	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	79;"	v	line:79
+x09E	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	80;"	v	line:80
+x09F	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	81;"	v	line:81
+x105	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	82;"	v	line:82
+x107	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	83;"	v	line:83
+x108	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	84;"	v	line:84
+x109	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	85;"	v	line:85
+x10C	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	86;"	v	line:86
+x10C	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	88;"	v	line:88
+x10D	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	89;"	v	line:89
+x10D	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	91;"	v	line:91
+x10E	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	92;"	v	line:92
+x10F	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	93;"	v	line:93
+x185	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	94;"	v	line:94
+x187	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	95;"	v	line:95
+x188	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	96;"	v	line:96
+x189	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	97;"	v	line:97
+x18C	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	98;"	v	line:98
+x18D	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\pic16f887.h	99;"	v	line:99
+year	F:\cjbc_zmz\subclock\szz485_v1.5.01\include\type.h	32;"	m	line:32	struct:_DATE

@@ -1,0 +1,132 @@
+Version 3.2 HI-TECH Software Intermediate Code
+"5 E:\cjbc_zmz\subClock\szz485_v1.5.01\source\week.c
+[v _WeekTab `uc -> 0 `x e ]
+[; ;stdio.h: 12: typedef int ptrdiff_t;
+[; ;stdio.h: 13: typedef unsigned size_t;
+[; ;stdio.h: 14: typedef unsigned short wchar_t;
+[; ;stdarg.h: 31: typedef void * va_list[1];
+[; ;stdarg.h: 34: extern void * __va_start(void);
+[; ;stdarg.h: 37: extern void * __va_arg(void *, ...);
+[; ;stdio.h: 27: extern int errno;
+[; ;stdio.h: 58: struct __prbuf
+[; ;stdio.h: 59: {
+[; ;stdio.h: 60: char * ptr;
+[; ;stdio.h: 61: void (* func)(char);
+[; ;stdio.h: 62: };
+[; ;conio.h: 17: extern int errno;
+[; ;conio.h: 20: extern void init_uart(void);
+[; ;conio.h: 22: extern char getch(void);
+[; ;conio.h: 23: extern char getche(void);
+[; ;conio.h: 24: extern void putch(char);
+[; ;conio.h: 25: extern void ungetch(char);
+[; ;conio.h: 27: extern bit kbhit(void);
+[; ;conio.h: 31: extern char * cgets(char *);
+[; ;conio.h: 32: extern void cputs(const char *);
+[; ;stdio.h: 103: extern int cprintf(char *, ...);
+[; ;stdio.h: 108: extern int _doprnt(struct __prbuf *, const register char *, register va_list);
+[; ;stdio.h: 195: extern char * gets(char *);
+[; ;stdio.h: 196: extern int puts(const char *);
+[; ;stdio.h: 197: extern int scanf(const char *, ...);
+[; ;stdio.h: 198: extern int sscanf(const char *, const char *, ...);
+[; ;stdio.h: 199: extern int vprintf(const char *, va_list);
+[; ;stdio.h: 200: extern int vsprintf(char *, const char *, va_list);
+[; ;stdio.h: 201: extern int vscanf(const char *, va_list ap);
+[; ;stdio.h: 202: extern int vsscanf(const char *, const char *, va_list);
+[; ;stdio.h: 206: extern int sprintf(char *, const char *, ...);
+[; ;stdio.h: 207: extern int printf(const char *, ...);
+"5 E:\cjbc_zmz\subClock\szz485_v1.5.01\source\week.c
+[i _WeekTab
+:U ..
+"6
+-> + << -> 3 `i -> 5 `i -> 31 `i `uc
+"7
+-> + << -> 6 `i -> 5 `i -> 29 `i `uc
+"8
+-> + << -> 0 `i -> 5 `i -> 31 `i `uc
+"9
+-> + << -> 3 `i -> 5 `i -> 30 `i `uc
+"10
+-> + << -> 5 `i -> 5 `i -> 31 `i `uc
+"11
+-> + << -> 1 `i -> 5 `i -> 30 `i `uc
+"12
+-> + << -> 3 `i -> 5 `i -> 31 `i `uc
+"13
+-> + << -> 6 `i -> 5 `i -> 31 `i `uc
+"14
+-> + << -> 2 `i -> 5 `i -> 30 `i `uc
+"15
+-> + << -> 4 `i -> 5 `i -> 31 `i `uc
+"16
+-> + << -> 0 `i -> 5 `i -> 30 `i `uc
+"18
+-> + << -> 2 `i -> 5 `i -> 31 `i `uc
+..
+]
+[; ;week.c: 5: unsigned char WeekTab[] = {
+[; ;week.c: 6: (3 << 5) + 31,
+[; ;week.c: 7: (6 << 5) + 29,
+[; ;week.c: 8: (0 << 5) + 31,
+[; ;week.c: 9: (3 << 5) + 30,
+[; ;week.c: 10: (5 << 5) + 31,
+[; ;week.c: 11: (1 << 5) + 30,
+[; ;week.c: 12: (3 << 5) + 31,
+[; ;week.c: 13: (6 << 5) + 31,
+[; ;week.c: 14: (2 << 5) + 30,
+[; ;week.c: 15: (4 << 5) + 31,
+[; ;week.c: 16: (0 << 5) + 30,
+[; ;week.c: 17: (2 << 5) + 31
+[; ;week.c: 18: };
+"26
+[v _WeekDay20 `(uc 1 ef3`uc`uc`uc ]
+{
+[; ;week.c: 25: unsigned char WeekDay20(unsigned char y, unsigned char m, unsigned char d)
+[; ;week.c: 26: {
+[e :U _WeekDay20 ]
+[v _y `uc 1 r1 ]
+[v _m `uc 1 r2 ]
+[v _d `uc 1 r3 ]
+[f ]
+"27
+[v _week `uc 1 a ]
+[v _day `uc 1 a ]
+[; ;week.c: 27: unsigned char week, day;
+[; ;week.c: 29: day = WeekTab[m - 1];
+"29
+[e = _day *U + &U _WeekTab * -> -> - -> _m `i -> 1 `i `ui `ux -> -> # *U &U _WeekTab `ui `ux ]
+[; ;week.c: 30: week = day >> 5;
+"30
+[e = _week -> >> -> _day `i -> 5 `i `uc ]
+[; ;week.c: 31: day &= 0x1f;
+"31
+[e =& _day -> -> 31 `i `uc ]
+[; ;week.c: 32: if ((m < 3) && (y & 0x03)){
+"32
+[e $ ! && < -> _m `i -> 3 `i != & -> _y `i -> 3 `i -> 0 `i 3  ]
+{
+[; ;week.c: 33: if (m == 2) day--;
+"33
+[e $ ! == -> _m `i -> 2 `i 4  ]
+[e -- _day -> -> 1 `i `uc ]
+[e :U 4 ]
+[; ;week.c: 34: week++;
+"34
+[e ++ _week -> -> 1 `i `uc ]
+"35
+}
+[e :U 3 ]
+[; ;week.c: 35: }
+[; ;week.c: 36: y = y + (y >> 2);
+"36
+[e = _y -> + -> _y `i >> -> _y `i -> 2 `i `uc ]
+[; ;week.c: 37: week = (week + y + d + 2) % 7;
+"37
+[e = _week -> % + + + -> _week `i -> _y `i -> _d `i -> 2 `i -> 7 `i `uc ]
+[; ;week.c: 39: return week;
+"39
+[e ) _week ]
+[e $UE 2  ]
+[; ;week.c: 40: }
+"40
+[e :UE 2 ]
+}

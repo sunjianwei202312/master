@@ -1,0 +1,133 @@
+Version 3.2 HI-TECH Software Intermediate Code
+"5 F:\cjbc_zmz\subclock\szz485_v1.5.01\source\CRC.c
+[v _calccrc `(us 1 ef2`uc`us ]
+{
+[; ;CRC.c: 4: unsigned short int calccrc(unsigned char crcbuf,unsigned short int crc)
+[; ;CRC.c: 5: {
+[e :U _calccrc ]
+[v _crcbuf `uc 1 r1 ]
+[v _crc `us 1 r2 ]
+[f ]
+"6
+[v _i `uc 1 a ]
+[v _chk `uc 1 a ]
+[; ;CRC.c: 6: unsigned char i,chk;
+[; ;CRC.c: 7: crc=crc ^ crcbuf;
+"7
+[e = _crc -> ^ -> _crc `ui -> _crcbuf `ui `us ]
+[; ;CRC.c: 8: for(i=0;i<8;i++)
+"8
+{
+[e = _i -> -> 0 `i `uc ]
+[e $ < -> _i `i -> 8 `i 2  ]
+[e $U 3  ]
+"9
+[e :U 2 ]
+[; ;CRC.c: 9: {
+{
+[; ;CRC.c: 10: chk=crc&1;
+"10
+[e = _chk -> & -> _crc `ui -> -> 1 `i `ui `uc ]
+[; ;CRC.c: 11: crc=crc>>1;
+"11
+[e = _crc -> >> -> _crc `ui -> 1 `i `us ]
+[; ;CRC.c: 12: crc=crc&0x7fff;
+"12
+[e = _crc -> & -> _crc `ui -> -> 32767 `i `ui `us ]
+[; ;CRC.c: 13: if (chk==1)
+"13
+[e $ ! == -> _chk `i -> 1 `i 5  ]
+[; ;CRC.c: 14: {
+"14
+{
+[; ;CRC.c: 15: crc=crc^0xa001;
+"15
+[e = _crc -> ^ -> _crc `ui -> 40961 `ui `us ]
+"16
+}
+[e :U 5 ]
+[; ;CRC.c: 16: }
+[; ;CRC.c: 17: crc=crc&0xffff;
+"17
+[e = _crc -> & -> _crc `ui -> 65535 `ui `us ]
+"18
+}
+"8
+[e ++ _i -> -> 1 `i `uc ]
+[e $ < -> _i `i -> 8 `i 2  ]
+[e :U 3 ]
+"18
+}
+[; ;CRC.c: 18: }
+[; ;CRC.c: 20: return crc;
+"20
+[e ) _crc ]
+[e $UE 1  ]
+[; ;CRC.c: 21: }
+"21
+[e :UE 1 ]
+}
+"24
+[v _MakeCRC16 `(us 1 ef2`*uc`uc ]
+{
+[; ;CRC.c: 23: unsigned short int MakeCRC16(unsigned char *buf,unsigned char len)
+[; ;CRC.c: 24: {
+[e :U _MakeCRC16 ]
+[v _buf `*uc 1 r1 ]
+[v _len `uc 1 r2 ]
+[f ]
+"25
+[v _hi `uc 1 a ]
+[v _lo `uc 1 a ]
+"26
+[v _i `us 1 a ]
+"27
+[v _crc `us 1 a ]
+[; ;CRC.c: 25: unsigned char hi,lo;
+[; ;CRC.c: 26: unsigned short int i;
+[; ;CRC.c: 27: unsigned short int crc;
+[; ;CRC.c: 28: crc=0xFFFF;
+"28
+[e = _crc -> -> 65535 `ui `us ]
+[; ;CRC.c: 29: for (i=0;i<len;i++)
+"29
+{
+[e = _i -> -> 0 `i `us ]
+[e $U 10  ]
+"30
+[e :U 7 ]
+[; ;CRC.c: 30: {
+{
+[; ;CRC.c: 31: crc=calccrc(*buf,crc);
+"31
+[e = _crc ( _calccrc (2 , *U _buf _crc ]
+[; ;CRC.c: 32: buf++;
+"32
+[e ++ _buf * -> -> 1 `i `x -> -> # *U _buf `i `x ]
+"33
+}
+"29
+[e ++ _i -> -> 1 `i `us ]
+[e :U 10 ]
+[e $ < -> _i `ui -> _len `ui 7  ]
+[e :U 8 ]
+"33
+}
+[; ;CRC.c: 33: }
+[; ;CRC.c: 34: hi=crc%256;
+"34
+[e = _hi -> % -> _crc `ui -> -> 256 `i `ui `uc ]
+[; ;CRC.c: 35: lo=crc/256;
+"35
+[e = _lo -> / -> _crc `ui -> -> 256 `i `ui `uc ]
+[; ;CRC.c: 36: crc=((unsigned short int)hi<<8)|lo;
+"36
+[e = _crc -> | << -> -> _hi `us `ui -> 8 `i -> _lo `ui `us ]
+[; ;CRC.c: 37: return crc;
+"37
+[e ) _crc ]
+[e $UE 6  ]
+[; ;CRC.c: 38: }
+"38
+[e :UE 6 ]
+}
